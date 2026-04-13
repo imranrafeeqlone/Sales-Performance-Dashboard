@@ -1,2 +1,11 @@
-# Sales-Performance-Dashboard
-Power BI Sales Dashboard analyzing key metrics like Sales, Profit, Profit Margin, and Orders. Includes trend analysis, category and product insights, and customer behavior visualization to support data-driven decision-making.
+# 📊 Sales Performance Dashboard
+
+🚀 Power BI Sales Dashboard analyzing key business metrics:
+💰 Sales | 💵 Profit | 📈 Profit Margin | 📦 Orders
+
+🔍 Features:
+• 📅 Trend analysis (monthly performance)
+• 🛍 Category & product insights
+• 💳 Customer payment behavior
+
+🎯 Designed to transform raw data into clear, actionable insights for data-driven decision-making.
