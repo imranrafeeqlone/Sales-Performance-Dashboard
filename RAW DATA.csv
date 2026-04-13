@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer Name,City,Category,Sub Category,Product,Quantity,Unit Price,Sales,Discount,Profit,Payment Mode,Rating
+ORD1000,01-01-2025,Customer_289,Mumbai,Furniture,Sofa,Sofa Set,5,48692,243460,0.15,23670,COD,4
+ORD1001,28-02-2025,Customer_282,Delhi,Furniture,Table,Dining Table,2,26616,53232,0.15,6642,COD,5
+ORD1002,15-01-2025,Customer_145,Mumbai,Electronics,Laptop,Laptop Pro,5,47006,235030,0.15,30980,COD,4
+ORD1003,14-02-2025,Customer_171,Delhi,Clothing,Shirt,Formal Shirt,4,3404,13616,0.2,1729,COD,4
+ORD1004,01-01-2025,Customer_205,Bangalore,Furniture,Chair,Office Chair,2,18888,37776,0.05,6854,Credit Card,1
+ORD1005,23-01-2025,Customer_36,Delhi,Furniture,Table,Dining Table,5,26484,132420,0.2,11839,Credit Card,2
+ORD1006,08-02-2025,Customer_7,Mumbai,Electronics,Tablet,Tablet Z,3,22941,68823,0.2,4475,UPI,1
+ORD1007,06-01-2025,Customer_53,Chennai,Clothing,Shirt,Formal Shirt,5,28057,140285,0.15,8453,COD,4
+ORD1008,14-02-2025,Customer_239,Delhi,Clothing,Shirt,Casual Shirt,1,22082,22082,0.05,2572,Credit Card,4
+ORD1009,20-02-2025,Customer_11,Kolkata,Electronics,Tablet,Tablet Z,4,6018,24072,0.2,2690,COD,2
+ORD1010,22-01-2025,Customer_7,Chennai,Furniture,Sofa,Sofa Set,5,24714,123570,0.1,20243,UPI,2
+ORD1011,29-01-2025,Customer_77,Mumbai,Furniture,Chair,Office Chair,4,36459,145836,0.05,22257,COD,2
+ORD1012,10-02-2025,Customer_194,Bangalore,Furniture,Sofa,Sofa Set,4,25388,101552,0.1,6913,COD,2
+ORD1013,30-01-2025,Customer_171,Bangalore,Furniture,Sofa,Sofa Set,1,32598,32598,0.05,5533,COD,2
+ORD1014,24-01-2025,Customer_74,Delhi,Furniture,Sofa,Sofa Set,3,13400,40200,0.2,2155,UPI,5
+ORD1015,06-02-2025,Customer_262,Delhi,Furniture,Sofa,Sofa Set,1,36731,36731,0.15,4104,Credit Card,2
+ORD1016,30-01-2025,Customer_226,Kolkata,Furniture,Table,Dining Table,4,26083,104332,0.1,7072,Credit Card,5
+ORD1017,24-02-2025,Customer_18,Bangalore,Electronics,Laptop,Laptop Pro,4,10222,40888,0.15,3813,UPI,5
+ORD1018,26-01-2025,Customer_299,Bangalore,Clothing,Shirt,Formal Shirt,1,41714,41714,0.15,7021,COD,5
+ORD1019,10-02-2025,Customer_246,Delhi,Furniture,Table,Dining Table,1,3693,3693,0.05,438,COD,3
+ORD1020,20-01-2025,Customer_76,Delhi,Electronics,Mobile,Smartphone X,3,28170,84510,0,12375,COD,4
+ORD1021,15-02-2025,Customer_275,Bangalore,Clothing,Jeans,Blue Jeans,2,1753,3506,0.15,456,Credit Card,4
+ORD1022,04-01-2025,Customer_213,Bangalore,Clothing,Jeans,Blue Jeans,1,46184,46184,0.15,6585,Credit Card,3
+ORD1023,17-01-2025,Customer_246,Chennai,Electronics,Laptop,Laptop Pro,4,11811,47244,0.2,3472,Credit Card,3
+ORD1024,12-02-2025,Customer_197,Bangalore,Furniture,Sofa,Sofa Set,2,21905,43810,0.2,4130,Credit Card,5
+ORD1025,18-01-2025,Customer_249,Chennai,Clothing,Jeans,Blue Jeans,4,25381,101524,0.1,10716,Credit Card,1
+ORD1026,26-01-2025,Customer_268,Mumbai,Clothing,Shirt,Formal Shirt,1,34312,34312,0,3520,COD,1
+ORD1027,26-01-2025,Customer_90,Bangalore,Electronics,Mobile,Smartphone X,5,13376,66880,0,12086,Credit Card,2
+ORD1028,25-01-2025,Customer_145,Bangalore,Clothing,Shirt,Formal Shirt,1,24811,24811,0.1,1684,UPI,4
+ORD1029,27-02-2025,Customer_100,Chennai,Clothing,Shirt,Casual Shirt,3,27750,83250,0.05,6575,COD,3
+ORD1030,10-01-2025,Customer_134,Mumbai,Clothing,Jeans,Blue Jeans,4,37002,148008,0.05,12093,COD,3
+ORD1031,09-01-2025,Customer_62,Bangalore,Electronics,Laptop,Laptop Pro,1,14776,14776,0.2,1786,COD,2
+ORD1032,19-02-2025,Customer_95,Delhi,Electronics,Laptop,Laptop Pro,3,6068,18204,0.2,3094,Credit Card,4
+ORD1033,27-02-2025,Customer_71,Mumbai,Furniture,Sofa,Sofa Set,3,38005,114015,0,16358,UPI,3
+ORD1034,05-01-2025,Customer_47,Bangalore,Furniture,Table,Dining Table,1,5223,5223,0,1007,UPI,4
+ORD1035,02-01-2025,Customer_97,Delhi,Clothing,Shirt,Casual Shirt,5,49188,245940,0.05,40555,UPI,3
+ORD1036,28-01-2025,Customer_237,Kolkata,Clothing,Shirt,Casual Shirt,3,46513,139539,0.15,20727,UPI,5
+ORD1037,05-02-2025,Customer_161,Kolkata,Furniture,Sofa,Sofa Set,4,40665,162660,0.15,22750,UPI,3
+ORD1038,15-01-2025,Customer_296,Chennai,Clothing,Shirt,Formal Shirt,3,27191,81573,0.1,11506,UPI,4
+ORD1039,16-01-2025,Customer_65,Chennai,Clothing,Shirt,Formal Shirt,4,37423,149692,0.2,18535,UPI,5
+ORD1040,21-01-2025,Customer_155,Bangalore,Clothing,Shirt,Casual Shirt,3,22541,67623,0.15,3637,UPI,1
+ORD1041,02-01-2025,Customer_141,Bangalore,Furniture,Chair,Office Chair,5,10598,52990,0.15,5031,Credit Card,5
+ORD1042,02-01-2025,Customer_153,Bangalore,Electronics,Mobile,Smartphone X,5,27690,138450,0.1,8350,COD,4
+ORD1043,25-02-2025,Customer_86,Chennai,Electronics,Mobile,Smartphone X,4,47103,188412,0.2,36911,Credit Card,3
+ORD1044,19-01-2025,Customer_197,Kolkata,Clothing,Jeans,Blue Jeans,2,9107,18214,0.15,3438,UPI,5
+ORD1045,05-02-2025,Customer_190,Delhi,Furniture,Sofa,Sofa Set,2,11893,23786,0.05,2914,COD,4
+ORD1046,27-01-2025,Customer_274,Kolkata,Electronics,Laptop,Laptop Pro,3,36332,108996,0.2,6986,UPI,5
+ORD1047,28-02-2025,Customer_12,Chennai,Furniture,Table,Dining Table,4,45588,182352,0.1,21189,UPI,5
+ORD1048,22-02-2025,Customer_72,Kolkata,Clothing,Shirt,Formal Shirt,1,25210,25210,0.1,3559,UPI,4
+ORD1049,10-01-2025,Customer_227,Chennai,Electronics,Mobile,Smartphone X,4,20682,82728,0.1,6365,UPI,1
+ORD1050,21-02-2025,Customer_178,Delhi,Clothing,Jeans,Blue Jeans,3,20661,61983,0.2,10725,Credit Card,4
+ORD1051,29-01-2025,Customer_118,Kolkata,Electronics,Mobile,Smartphone X,5,39617,198085,0.05,27413,COD,1
+ORD1052,02-03-2025,Customer_195,Chennai,Electronics,Mobile,Smartphone X,1,37233,37233,0.15,4094,Credit Card,5
+ORD1053,04-01-2025,Customer_95,Bangalore,Clothing,Shirt,Casual Shirt,4,40709,162836,0.15,18706,Credit Card,5
+ORD1054,01-03-2025,Customer_268,Delhi,Furniture,Sofa,Sofa Set,2,8260,16520,0.05,2118,UPI,4
+ORD1055,06-02-2025,Customer_96,Delhi,Clothing,Shirt,Formal Shirt,1,14915,14915,0.2,1033,UPI,5
+ORD1056,14-02-2025,Customer_218,Mumbai,Electronics,Laptop,Laptop Pro,4,45292,181168,0.2,28979,COD,2
+ORD1057,21-02-2025,Customer_174,Kolkata,Electronics,Mobile,Smartphone X,2,13671,27342,0.15,4654,UPI,1
+ORD1058,20-02-2025,Customer_16,Mumbai,Clothing,Jeans,Blue Jeans,2,666,1332,0,202,COD,4
+ORD1059,12-01-2025,Customer_215,Mumbai,Clothing,Jeans,Blue Jeans,4,33618,134472,0,26185,Credit Card,2
+ORD1060,17-01-2025,Customer_16,Chennai,Electronics,Laptop,Laptop Pro,3,34943,104829,0.05,12251,COD,1
+ORD1061,03-02-2025,Customer_282,Chennai,Clothing,Jeans,Blue Jeans,5,45331,226655,0.15,32436,COD,3
+ORD1062,12-02-2025,Customer_158,Chennai,Clothing,Shirt,Casual Shirt,5,4946,24730,0.05,4216,Credit Card,1
+ORD1063,13-01-2025,Customer_294,Mumbai,Clothing,Shirt,Casual Shirt,2,32561,65122,0.05,7573,Credit Card,2
+ORD1064,18-02-2025,Customer_297,Bangalore,Furniture,Chair,Office Chair,5,18412,92060,0.05,15409,COD,5
+ORD1065,27-01-2025,Customer_186,Kolkata,Furniture,Sofa,Sofa Set,1,16753,16753,0,1363,UPI,5
+ORD1066,13-01-2025,Customer_223,Mumbai,Electronics,Laptop,Laptop Pro,1,35205,35205,0.05,3755,UPI,3
+ORD1067,01-03-2025,Customer_258,Mumbai,Furniture,Table,Dining Table,2,11069,22138,0.05,3230,UPI,3
+ORD1068,20-02-2025,Customer_214,Bangalore,Clothing,Shirt,Formal Shirt,5,12285,61425,0.2,5489,Credit Card,2
+ORD1069,06-02-2025,Customer_270,Chennai,Clothing,Shirt,Casual Shirt,5,49192,245960,0.05,48341,UPI,5
+ORD1070,06-02-2025,Customer_177,Mumbai,Furniture,Chair,Office Chair,3,23851,71553,0.2,10301,COD,2
+ORD1071,07-01-2025,Customer_100,Kolkata,Clothing,Shirt,Casual Shirt,3,7199,21597,0.2,2045,UPI,4
+ORD1072,12-01-2025,Customer_257,Mumbai,Electronics,Mobile,Smartphone X,4,17727,70908,0.15,3599,COD,4
+ORD1073,01-03-2025,Customer_256,Kolkata,Clothing,Shirt,Casual Shirt,4,42662,170648,0,13723,Credit Card,4
+ORD1074,31-01-2025,Customer_173,Kolkata,Furniture,Table,Dining Table,2,32795,65590,0,4094,UPI,4
+ORD1075,19-01-2025,Customer_7,Bangalore,Furniture,Chair,Office Chair,1,2512,2512,0.2,410,COD,3
+ORD1076,28-01-2025,Customer_104,Delhi,Clothing,Shirt,Casual Shirt,5,20506,102530,0.05,17930,Credit Card,2
+ORD1077,25-02-2025,Customer_109,Bangalore,Electronics,Mobile,Smartphone X,2,41234,82468,0.15,4873,COD,3
+ORD1078,06-01-2025,Customer_176,Kolkata,Clothing,Shirt,Formal Shirt,4,24863,99452,0,9514,Credit Card,2
+ORD1079,04-02-2025,Customer_194,Mumbai,Electronics,Tablet,Tablet Z,5,45427,227135,0.15,16906,Credit Card,1
+ORD1080,01-02-2025,Customer_287,Bangalore,Electronics,Mobile,Smartphone X,2,35236,70472,0.15,6940,UPI,5
+ORD1081,15-02-2025,Customer_215,Bangalore,Clothing,Shirt,Casual Shirt,4,35160,140640,0,9141,UPI,2
+ORD1082,05-02-2025,Customer_292,Mumbai,Furniture,Sofa,Sofa Set,5,23336,116680,0,23099,Credit Card,5
+ORD1083,04-02-2025,Customer_48,Delhi,Furniture,Chair,Office Chair,1,45585,45585,0,4850,UPI,5
+ORD1084,08-02-2025,Customer_105,Chennai,Clothing,Shirt,Casual Shirt,4,9669,38676,0.1,4890,UPI,2
+ORD1085,11-02-2025,Customer_90,Bangalore,Furniture,Table,Dining Table,3,3407,10221,0,723,COD,2
+ORD1086,19-02-2025,Customer_72,Chennai,Furniture,Chair,Office Chair,2,23872,47744,0.2,4236,Credit Card,1
+ORD1087,20-01-2025,Customer_178,Bangalore,Clothing,Shirt,Casual Shirt,4,31878,127512,0.1,17816,UPI,5
+ORD1088,01-03-2025,Customer_277,Delhi,Electronics,Tablet,Tablet Z,4,10653,42612,0.05,3426,COD,3
+ORD1089,23-01-2025,Customer_202,Bangalore,Electronics,Laptop,Laptop Pro,5,25166,125830,0.05,16557,COD,3
+ORD1090,31-01-2025,Customer_203,Delhi,Clothing,Shirt,Casual Shirt,5,39378,196890,0,13201,COD,2
+ORD1091,13-01-2025,Customer_185,Mumbai,Electronics,Laptop,Laptop Pro,5,46815,234075,0.2,19987,COD,3
+ORD1092,05-01-2025,Customer_279,Bangalore,Furniture,Chair,Office Chair,5,49398,246990,0.15,42073,COD,2
+ORD1093,04-02-2025,Customer_214,Chennai,Clothing,Shirt,Formal Shirt,3,18029,54087,0.05,3345,COD,1
+ORD1094,24-01-2025,Customer_156,Bangalore,Furniture,Chair,Office Chair,2,39171,78342,0.05,7627,COD,3
+ORD1095,23-01-2025,Customer_56,Chennai,Clothing,Shirt,Casual Shirt,3,16298,48894,0,8602,UPI,1
+ORD1096,16-02-2025,Customer_274,Chennai,Electronics,Mobile,Smartphone X,1,48367,48367,0.15,7526,UPI,2
+ORD1097,17-02-2025,Customer_61,Delhi,Furniture,Sofa,Sofa Set,4,39684,158736,0.15,22889,COD,1
+ORD1098,07-02-2025,Customer_69,Kolkata,Clothing,Shirt,Casual Shirt,3,5181,15543,0.2,1734,UPI,3
+ORD1099,08-01-2025,Customer_286,Mumbai,Furniture,Table,Dining Table,4,45501,182004,0.15,17097,UPI,3
+ORD1100,04-01-2025,Customer_108,Kolkata,Furniture,Chair,Office Chair,1,6375,6375,0,893,COD,1
+ORD1101,19-01-2025,Customer_229,Chennai,Clothing,Shirt,Casual Shirt,4,6257,25028,0,2175,COD,5
+ORD1102,11-02-2025,Customer_256,Mumbai,Clothing,Jeans,Blue Jeans,1,3688,3688,0,556,UPI,3
+ORD1103,17-01-2025,Customer_221,Chennai,Furniture,Chair,Office Chair,2,17650,35300,0.15,3367,COD,5
+ORD1104,15-01-2025,Customer_169,Bangalore,Clothing,Jeans,Blue Jeans,4,43686,174744,0.2,24841,Credit Card,5
+ORD1105,21-01-2025,Customer_126,Kolkata,Furniture,Table,Dining Table,2,22041,44082,0,6471,UPI,4
+ORD1106,11-01-2025,Customer_153,Kolkata,Electronics,Tablet,Tablet Z,3,36657,109971,0.05,11561,COD,2
+ORD1107,09-01-2025,Customer_235,Bangalore,Clothing,Shirt,Formal Shirt,4,3607,14428,0.2,974,UPI,4
+ORD1108,02-02-2025,Customer_239,Kolkata,Furniture,Sofa,Sofa Set,4,9641,38564,0,5493,UPI,3
+ORD1109,28-02-2025,Customer_154,Delhi,Clothing,Shirt,Casual Shirt,1,6744,6744,0.1,1121,COD,3
+ORD1110,01-03-2025,Customer_212,Mumbai,Clothing,Jeans,Blue Jeans,1,18453,18453,0.05,1784,UPI,2
+ORD1111,28-01-2025,Customer_292,Bangalore,Clothing,Shirt,Formal Shirt,1,14226,14226,0,1888,Credit Card,5
+ORD1112,14-02-2025,Customer_196,Bangalore,Electronics,Laptop,Laptop Pro,4,27526,110104,0.05,13758,UPI,2
+ORD1113,23-01-2025,Customer_125,Delhi,Clothing,Shirt,Formal Shirt,1,15407,15407,0.2,1421,COD,4
+ORD1114,14-01-2025,Customer_161,Chennai,Electronics,Mobile,Smartphone X,1,10450,10450,0.1,1381,Credit Card,2
+ORD1115,10-01-2025,Customer_18,Mumbai,Clothing,Jeans,Blue Jeans,5,40445,202225,0.15,13697,COD,5
+ORD1116,27-01-2025,Customer_268,Chennai,Furniture,Table,Dining Table,1,16251,16251,0.05,2202,COD,3
+ORD1117,14-02-2025,Customer_34,Mumbai,Furniture,Chair,Office Chair,3,27240,81720,0.1,12271,UPI,4
+ORD1118,19-01-2025,Customer_125,Chennai,Electronics,Mobile,Smartphone X,4,28096,112384,0,22153,COD,3
+ORD1119,13-01-2025,Customer_129,Bangalore,Furniture,Table,Dining Table,2,17112,34224,0,2027,COD,4
+ORD1120,09-01-2025,Customer_283,Bangalore,Electronics,Mobile,Smartphone X,5,8191,40955,0.2,6152,Credit Card,4
+ORD1121,26-01-2025,Customer_257,Chennai,Furniture,Table,Dining Table,1,35087,35087,0.2,1922,COD,3
+ORD1122,15-02-2025,Customer_281,Kolkata,Furniture,Table,Dining Table,1,18366,18366,0,2566,Credit Card,5
+ORD1123,30-01-2025,Customer_87,Chennai,Furniture,Table,Dining Table,3,45963,137889,0.05,13479,COD,2
+ORD1124,19-01-2025,Customer_117,Delhi,Electronics,Mobile,Smartphone X,4,33248,132992,0.1,11910,UPI,5
+ORD1125,24-01-2025,Customer_151,Delhi,Clothing,Shirt,Casual Shirt,5,49556,247780,0.2,28274,Credit Card,5
+ORD1126,02-01-2025,Customer_90,Chennai,Electronics,Laptop,Laptop Pro,5,37459,187295,0.15,9720,UPI,3
+ORD1127,01-02-2025,Customer_143,Bangalore,Electronics,Tablet,Tablet Z,1,19750,19750,0.1,1475,Credit Card,2
+ORD1128,20-02-2025,Customer_151,Mumbai,Furniture,Sofa,Sofa Set,2,42753,85506,0.05,14748,UPI,5
+ORD1129,26-01-2025,Customer_220,Kolkata,Electronics,Mobile,Smartphone X,2,1554,3108,0.1,171,UPI,3
+ORD1130,09-01-2025,Customer_292,Delhi,Electronics,Laptop,Laptop Pro,5,49930,249650,0,45546,COD,1
+ORD1131,09-01-2025,Customer_273,Kolkata,Furniture,Table,Dining Table,1,7313,7313,0.15,878,COD,3
+ORD1132,24-02-2025,Customer_250,Delhi,Furniture,Chair,Office Chair,4,42042,168168,0.05,19236,Credit Card,1
+ORD1133,12-02-2025,Customer_156,Kolkata,Electronics,Laptop,Laptop Pro,1,44832,44832,0.2,6399,UPI,5
+ORD1134,12-01-2025,Customer_106,Chennai,Clothing,Jeans,Blue Jeans,5,39221,196105,0.2,19258,UPI,2
+ORD1135,01-02-2025,Customer_200,Chennai,Electronics,Tablet,Tablet Z,5,21873,109365,0,14031,COD,5
+ORD1136,16-01-2025,Customer_122,Mumbai,Clothing,Shirt,Formal Shirt,3,44616,133848,0.15,23328,COD,1
+ORD1137,16-02-2025,Customer_195,Delhi,Electronics,Laptop,Laptop Pro,3,21989,65967,0.15,5189,Credit Card,1
+ORD1138,10-01-2025,Customer_207,Delhi,Electronics,Laptop,Laptop Pro,5,48923,244615,0.2,21126,UPI,1
+ORD1139,25-02-2025,Customer_114,Bangalore,Furniture,Sofa,Sofa Set,5,6828,34140,0,5528,UPI,1
+ORD1140,11-01-2025,Customer_130,Mumbai,Clothing,Shirt,Formal Shirt,3,38132,114396,0.1,7707,Credit Card,2
+ORD1141,17-01-2025,Customer_244,Chennai,Electronics,Tablet,Tablet Z,4,37512,150048,0.05,19396,COD,4
+ORD1142,31-01-2025,Customer_37,Chennai,Electronics,Laptop,Laptop Pro,5,42536,212680,0,11515,Credit Card,4
+ORD1143,07-02-2025,Customer_77,Bangalore,Furniture,Sofa,Sofa Set,5,45697,228485,0.05,24266,COD,2
+ORD1144,06-02-2025,Customer_278,Mumbai,Furniture,Sofa,Sofa Set,2,11594,23188,0.05,3000,UPI,5
+ORD1145,08-01-2025,Customer_281,Kolkata,Electronics,Mobile,Smartphone X,3,3504,10512,0.2,1501,COD,4
+ORD1146,01-01-2025,Customer_239,Delhi,Electronics,Mobile,Smartphone X,2,21076,42152,0.15,5117,Credit Card,1
+ORD1147,01-02-2025,Customer_207,Mumbai,Clothing,Shirt,Casual Shirt,1,19252,19252,0.1,2016,UPI,2
+ORD1148,15-02-2025,Customer_253,Kolkata,Electronics,Tablet,Tablet Z,3,9983,29949,0.2,5499,COD,1
+ORD1149,19-01-2025,Customer_135,Delhi,Furniture,Sofa,Sofa Set,2,42777,85554,0.05,7896,COD,2
+ORD1150,06-01-2025,Customer_173,Bangalore,Furniture,Table,Dining Table,2,43839,87678,0.1,15824,UPI,5
+ORD1151,20-02-2025,Customer_17,Kolkata,Furniture,Sofa,Sofa Set,5,17884,89420,0,7778,Credit Card,1
+ORD1152,23-01-2025,Customer_168,Kolkata,Clothing,Jeans,Blue Jeans,4,30983,123932,0.1,17559,UPI,2
+ORD1153,27-02-2025,Customer_126,Mumbai,Clothing,Shirt,Formal Shirt,2,22932,45864,0.2,6533,Credit Card,1
+ORD1154,01-01-2025,Customer_131,Delhi,Clothing,Shirt,Formal Shirt,5,29536,147680,0.05,15358,Credit Card,5
+ORD1155,18-02-2025,Customer_18,Bangalore,Electronics,Tablet,Tablet Z,4,40370,161480,0.1,17627,Credit Card,4
+ORD1156,01-01-2025,Customer_61,Delhi,Electronics,Laptop,Laptop Pro,4,18044,72176,0.2,6066,UPI,4
+ORD1157,03-01-2025,Customer_284,Delhi,Electronics,Mobile,Smartphone X,1,41867,41867,0.2,2374,UPI,2
+ORD1158,01-02-2025,Customer_145,Mumbai,Clothing,Shirt,Casual Shirt,2,34002,68004,0,8569,Credit Card,1
+ORD1159,27-02-2025,Customer_210,Mumbai,Electronics,Tablet,Tablet Z,4,27051,108204,0.1,17800,UPI,2
+ORD1160,11-02-2025,Customer_17,Bangalore,Clothing,Shirt,Casual Shirt,4,4633,18532,0.1,1891,COD,4
+ORD1161,23-01-2025,Customer_228,Delhi,Clothing,Shirt,Casual Shirt,2,37472,74944,0,14080,Credit Card,3
+ORD1162,14-02-2025,Customer_271,Bangalore,Clothing,Shirt,Casual Shirt,1,32637,32637,0.05,2771,Credit Card,2
+ORD1163,10-01-2025,Customer_59,Bangalore,Clothing,Shirt,Casual Shirt,5,37542,187710,0.2,19520,COD,4
+ORD1164,06-01-2025,Customer_235,Delhi,Clothing,Shirt,Formal Shirt,2,5809,11618,0,685,UPI,5
+ORD1165,05-01-2025,Customer_191,Mumbai,Clothing,Jeans,Blue Jeans,5,15102,75510,0.15,14450,UPI,1
+ORD1166,26-02-2025,Customer_2,Delhi,Electronics,Tablet,Tablet Z,1,32591,32591,0,3857,UPI,5
+ORD1167,26-01-2025,Customer_230,Bangalore,Electronics,Laptop,Laptop Pro,5,48960,244800,0.15,36836,UPI,3
+ORD1168,08-01-2025,Customer_254,Kolkata,Clothing,Shirt,Casual Shirt,2,23165,46330,0.15,5015,Credit Card,1
+ORD1169,22-01-2025,Customer_23,Kolkata,Electronics,Tablet,Tablet Z,3,26179,78537,0,15463,COD,2
+ORD1170,23-01-2025,Customer_79,Kolkata,Furniture,Sofa,Sofa Set,4,20979,83916,0.2,14936,COD,4
+ORD1171,26-02-2025,Customer_268,Mumbai,Clothing,Shirt,Formal Shirt,3,20739,62217,0.05,5712,UPI,5
+ORD1172,14-01-2025,Customer_297,Kolkata,Electronics,Mobile,Smartphone X,3,21565,64695,0.2,12368,UPI,1
+ORD1173,12-02-2025,Customer_221,Chennai,Clothing,Shirt,Casual Shirt,2,45207,90414,0.05,14026,Credit Card,4
+ORD1174,03-01-2025,Customer_276,Mumbai,Clothing,Shirt,Formal Shirt,1,16203,16203,0.05,1824,Credit Card,3
+ORD1175,01-03-2025,Customer_102,Chennai,Electronics,Tablet,Tablet Z,4,33023,132092,0.1,7189,Credit Card,3
+ORD1176,07-02-2025,Customer_289,Mumbai,Electronics,Tablet,Tablet Z,5,33847,169235,0.15,9847,COD,5
+ORD1177,12-02-2025,Customer_38,Chennai,Clothing,Shirt,Formal Shirt,2,47455,94910,0,13174,UPI,1
+ORD1178,13-02-2025,Customer_41,Chennai,Furniture,Sofa,Sofa Set,3,12488,37464,0.1,6253,UPI,3
+ORD1179,01-03-2025,Customer_176,Kolkata,Furniture,Sofa,Sofa Set,1,33668,33668,0.2,1845,UPI,2
+ORD1180,21-02-2025,Customer_283,Mumbai,Clothing,Jeans,Blue Jeans,1,24936,24936,0.2,1675,Credit Card,2
+ORD1181,15-02-2025,Customer_160,Delhi,Electronics,Mobile,Smartphone X,4,46108,184432,0.2,30069,Credit Card,4
+ORD1182,10-01-2025,Customer_270,Mumbai,Furniture,Table,Dining Table,2,39163,78326,0.05,8357,Credit Card,5
+ORD1183,13-01-2025,Customer_212,Chennai,Electronics,Tablet,Tablet Z,1,18062,18062,0,1620,COD,1
+ORD1184,26-02-2025,Customer_78,Bangalore,Furniture,Sofa,Sofa Set,5,48027,240135,0,31119,Credit Card,4
+ORD1185,17-01-2025,Customer_10,Chennai,Clothing,Shirt,Casual Shirt,4,24518,98072,0.05,18254,COD,1
+ORD1186,14-01-2025,Customer_84,Mumbai,Furniture,Sofa,Sofa Set,1,44303,44303,0.2,3130,COD,3
+ORD1187,23-02-2025,Customer_238,Delhi,Clothing,Shirt,Formal Shirt,5,20444,102220,0,17619,Credit Card,4
+ORD1188,22-02-2025,Customer_162,Kolkata,Clothing,Jeans,Blue Jeans,1,9800,9800,0.05,598,COD,5
+ORD1189,27-02-2025,Customer_295,Mumbai,Clothing,Jeans,Blue Jeans,3,6218,18654,0.05,2935,COD,5
+ORD1190,19-02-2025,Customer_83,Bangalore,Clothing,Jeans,Blue Jeans,1,23823,23823,0.2,1511,COD,4
+ORD1191,18-01-2025,Customer_250,Chennai,Furniture,Chair,Office Chair,4,37968,151872,0,11259,Credit Card,4
+ORD1192,20-01-2025,Customer_97,Bangalore,Clothing,Jeans,Blue Jeans,2,47523,95046,0.1,6948,Credit Card,1
+ORD1193,20-01-2025,Customer_22,Mumbai,Furniture,Table,Dining Table,5,26753,133765,0.05,11124,Credit Card,1
+ORD1194,03-02-2025,Customer_89,Chennai,Electronics,Laptop,Laptop Pro,1,12998,12998,0.2,920,UPI,2
+ORD1195,11-02-2025,Customer_131,Delhi,Clothing,Shirt,Formal Shirt,3,10286,30858,0.2,4220,Credit Card,1
+ORD1196,02-02-2025,Customer_246,Bangalore,Furniture,Table,Dining Table,3,49410,148230,0.15,24016,Credit Card,4
+ORD1197,16-01-2025,Customer_243,Chennai,Clothing,Shirt,Casual Shirt,5,5379,26895,0,1837,Credit Card,1
+ORD1198,09-02-2025,Customer_71,Chennai,Clothing,Shirt,Formal Shirt,4,29200,116800,0.1,7926,UPI,1
+ORD1199,03-02-2025,Customer_113,Chennai,Furniture,Sofa,Sofa Set,1,3612,3612,0.1,571,Credit Card,4
+ORD1200,17-01-2025,Customer_158,Bangalore,Electronics,Mobile,Smartphone X,2,22712,45424,0.15,5081,Credit Card,4
+ORD1201,30-01-2025,Customer_294,Bangalore,Furniture,Chair,Office Chair,2,29666,59332,0.15,5779,UPI,4
+ORD1202,05-01-2025,Customer_41,Delhi,Clothing,Shirt,Casual Shirt,1,19462,19462,0.2,3386,COD,3
+ORD1203,04-01-2025,Customer_36,Bangalore,Furniture,Chair,Office Chair,1,24097,24097,0.1,4049,Credit Card,1
+ORD1204,23-02-2025,Customer_281,Mumbai,Electronics,Laptop,Laptop Pro,2,10407,20814,0,3373,COD,5
+ORD1205,01-03-2025,Customer_92,Kolkata,Furniture,Table,Dining Table,3,31565,94695,0.15,16726,Credit Card,5
+ORD1206,26-02-2025,Customer_93,Kolkata,Clothing,Shirt,Formal Shirt,3,32907,98721,0.05,14364,Credit Card,3
+ORD1207,29-01-2025,Customer_246,Kolkata,Clothing,Shirt,Formal Shirt,5,45073,225365,0.05,27329,UPI,4
+ORD1208,20-02-2025,Customer_170,Kolkata,Clothing,Shirt,Casual Shirt,3,1577,4731,0.1,631,UPI,5
+ORD1209,08-01-2025,Customer_271,Kolkata,Clothing,Shirt,Casual Shirt,5,18464,92320,0.2,5407,COD,4
+ORD1210,07-01-2025,Customer_265,Bangalore,Clothing,Jeans,Blue Jeans,2,31335,62670,0,5428,Credit Card,3
+ORD1211,18-01-2025,Customer_263,Mumbai,Electronics,Laptop,Laptop Pro,1,30500,30500,0.05,5489,Credit Card,1
+ORD1212,08-01-2025,Customer_205,Chennai,Furniture,Chair,Office Chair,2,7311,14622,0,1895,Credit Card,5
+ORD1213,26-01-2025,Customer_69,Mumbai,Furniture,Table,Dining Table,3,32576,97728,0,15092,COD,5
+ORD1214,14-01-2025,Customer_227,Bangalore,Electronics,Tablet,Tablet Z,2,5601,11202,0,1344,Credit Card,1
+ORD1215,12-01-2025,Customer_221,Mumbai,Clothing,Shirt,Casual Shirt,4,28321,113284,0,6198,COD,4
+ORD1216,02-02-2025,Customer_138,Mumbai,Clothing,Shirt,Casual Shirt,1,2307,2307,0.15,312,Credit Card,5
+ORD1217,23-01-2025,Customer_215,Chennai,Furniture,Chair,Office Chair,2,21110,42220,0,6893,UPI,5
+ORD1218,13-01-2025,Customer_79,Chennai,Electronics,Laptop,Laptop Pro,1,16527,16527,0.1,2249,Credit Card,1
+ORD1219,20-01-2025,Customer_40,Chennai,Electronics,Tablet,Tablet Z,1,769,769,0.15,102,Credit Card,1
+ORD1220,08-01-2025,Customer_299,Bangalore,Clothing,Jeans,Blue Jeans,3,21631,64893,0.1,7857,Credit Card,4
+ORD1221,16-02-2025,Customer_245,Bangalore,Furniture,Table,Dining Table,1,28993,28993,0.1,4886,UPI,3
+ORD1222,22-02-2025,Customer_175,Bangalore,Furniture,Chair,Office Chair,4,29152,116608,0.15,12709,UPI,2
+ORD1223,16-01-2025,Customer_250,Kolkata,Clothing,Jeans,Blue Jeans,3,30068,90204,0.05,7602,UPI,1
+ORD1224,26-01-2025,Customer_262,Bangalore,Clothing,Shirt,Formal Shirt,4,18861,75444,0.05,6845,Credit Card,1
+ORD1225,19-01-2025,Customer_178,Delhi,Clothing,Jeans,Blue Jeans,1,29804,29804,0.1,2818,COD,3
+ORD1226,22-02-2025,Customer_197,Chennai,Electronics,Laptop,Laptop Pro,3,23922,71766,0.1,6387,COD,4
+ORD1227,11-01-2025,Customer_29,Delhi,Clothing,Jeans,Blue Jeans,2,38583,77166,0.1,6297,Credit Card,1
+ORD1228,07-02-2025,Customer_277,Mumbai,Furniture,Sofa,Sofa Set,5,17752,88760,0.1,10917,Credit Card,3
+ORD1229,27-01-2025,Customer_32,Bangalore,Electronics,Mobile,Smartphone X,2,41479,82958,0.15,13188,Credit Card,5
+ORD1230,02-01-2025,Customer_73,Delhi,Furniture,Chair,Office Chair,4,43510,174040,0.1,28936,UPI,1
+ORD1231,17-02-2025,Customer_205,Mumbai,Electronics,Laptop,Laptop Pro,4,42037,168148,0.15,22356,UPI,4
+ORD1232,03-01-2025,Customer_272,Bangalore,Electronics,Tablet,Tablet Z,5,1790,8950,0.05,1573,UPI,5
+ORD1233,02-01-2025,Customer_235,Delhi,Electronics,Mobile,Smartphone X,5,45244,226220,0.15,41941,UPI,3
+ORD1234,21-01-2025,Customer_20,Mumbai,Furniture,Chair,Office Chair,4,40441,161764,0,15117,Credit Card,2
+ORD1235,12-02-2025,Customer_235,Mumbai,Clothing,Shirt,Formal Shirt,5,6852,34260,0,2658,COD,4
+ORD1236,24-01-2025,Customer_104,Mumbai,Furniture,Chair,Office Chair,2,36665,73330,0.05,11386,COD,3
+ORD1237,11-02-2025,Customer_295,Delhi,Clothing,Shirt,Formal Shirt,3,23055,69165,0.1,5676,Credit Card,1
+ORD1238,10-01-2025,Customer_76,Kolkata,Furniture,Chair,Office Chair,2,29330,58660,0.2,8578,COD,4
+ORD1239,20-01-2025,Customer_275,Bangalore,Furniture,Chair,Office Chair,3,43607,130821,0.15,11716,UPI,4
+ORD1240,19-02-2025,Customer_215,Kolkata,Clothing,Shirt,Formal Shirt,4,23027,92108,0.15,7312,UPI,3
+ORD1241,28-02-2025,Customer_244,Bangalore,Electronics,Tablet,Tablet Z,4,26825,107300,0,16591,Credit Card,4
+ORD1242,26-01-2025,Customer_108,Chennai,Furniture,Chair,Office Chair,5,26789,133945,0.1,17014,UPI,1
+ORD1243,22-02-2025,Customer_294,Mumbai,Clothing,Shirt,Casual Shirt,1,13980,13980,0.05,853,UPI,3
+ORD1244,13-02-2025,Customer_117,Kolkata,Electronics,Mobile,Smartphone X,4,32885,131540,0,21689,COD,1
+ORD1245,02-01-2025,Customer_153,Bangalore,Electronics,Mobile,Smartphone X,3,9408,28224,0,2390,COD,1
+ORD1246,01-03-2025,Customer_10,Mumbai,Electronics,Mobile,Smartphone X,1,25638,25638,0,3198,COD,2
+ORD1247,05-01-2025,Customer_127,Mumbai,Clothing,Shirt,Formal Shirt,3,11708,35124,0.15,4590,COD,5
+ORD1248,09-02-2025,Customer_59,Bangalore,Electronics,Tablet,Tablet Z,5,9532,47660,0.2,7066,COD,5
+ORD1249,15-01-2025,Customer_151,Delhi,Electronics,Mobile,Smartphone X,3,13407,40221,0.15,3653,COD,3
+ORD1250,01-02-2025,Customer_13,Delhi,Furniture,Table,Dining Table,4,5494,21976,0.1,3809,UPI,2
+ORD1251,30-01-2025,Customer_94,Bangalore,Furniture,Table,Dining Table,3,31792,95376,0.15,10933,COD,4
+ORD1252,21-01-2025,Customer_112,Delhi,Clothing,Jeans,Blue Jeans,4,32342,129368,0.05,14242,COD,1
+ORD1253,06-02-2025,Customer_2,Chennai,Furniture,Table,Dining Table,1,40542,40542,0,4521,UPI,1
+ORD1254,02-02-2025,Customer_181,Delhi,Furniture,Chair,Office Chair,3,36772,110316,0,13445,UPI,1
+ORD1255,08-02-2025,Customer_92,Delhi,Furniture,Sofa,Sofa Set,3,33721,101163,0.15,11752,COD,4
+ORD1256,16-01-2025,Customer_31,Delhi,Electronics,Laptop,Laptop Pro,5,41473,207365,0.1,31240,COD,4
+ORD1257,23-02-2025,Customer_127,Delhi,Furniture,Chair,Office Chair,3,4452,13356,0.2,2038,COD,3
+ORD1258,21-02-2025,Customer_282,Chennai,Furniture,Chair,Office Chair,3,26206,78618,0.15,12785,COD,4
+ORD1259,02-02-2025,Customer_217,Delhi,Clothing,Jeans,Blue Jeans,1,19345,19345,0.1,2505,COD,2
+ORD1260,24-02-2025,Customer_290,Kolkata,Clothing,Shirt,Casual Shirt,4,4843,19372,0.1,1934,UPI,3
+ORD1261,21-01-2025,Customer_298,Chennai,Clothing,Shirt,Casual Shirt,2,10051,20102,0.2,3659,COD,3
+ORD1262,20-02-2025,Customer_38,Delhi,Electronics,Tablet,Tablet Z,5,22322,111610,0,11570,COD,5
+ORD1263,24-01-2025,Customer_146,Bangalore,Electronics,Tablet,Tablet Z,4,49311,197244,0.2,18350,COD,5
+ORD1264,30-01-2025,Customer_219,Chennai,Electronics,Tablet,Tablet Z,4,20649,82596,0.15,13217,Credit Card,1
+ORD1265,04-02-2025,Customer_256,Bangalore,Furniture,Table,Dining Table,4,13841,55364,0.2,10046,COD,5
+ORD1266,18-02-2025,Customer_88,Delhi,Clothing,Shirt,Formal Shirt,2,39762,79524,0.1,13709,COD,4
+ORD1267,05-02-2025,Customer_203,Chennai,Clothing,Shirt,Formal Shirt,5,36241,181205,0.05,21637,UPI,5
+ORD1268,31-01-2025,Customer_142,Chennai,Clothing,Shirt,Casual Shirt,5,26511,132555,0.05,16317,COD,2
+ORD1269,17-02-2025,Customer_122,Delhi,Furniture,Chair,Office Chair,2,8070,16140,0,1078,Credit Card,2
+ORD1270,14-02-2025,Customer_114,Mumbai,Electronics,Tablet,Tablet Z,1,9991,9991,0.1,1836,Credit Card,3
+ORD1271,02-03-2025,Customer_128,Chennai,Clothing,Jeans,Blue Jeans,1,6196,6196,0.15,952,UPI,1
+ORD1272,25-02-2025,Customer_55,Kolkata,Furniture,Table,Dining Table,5,20038,100190,0.05,7771,UPI,4
+ORD1273,11-02-2025,Customer_61,Delhi,Furniture,Chair,Office Chair,2,12556,25112,0.05,2572,Credit Card,1
+ORD1274,03-01-2025,Customer_277,Bangalore,Electronics,Laptop,Laptop Pro,2,13528,27056,0.1,2414,Credit Card,1
+ORD1275,25-01-2025,Customer_84,Mumbai,Clothing,Jeans,Blue Jeans,5,35505,177525,0.15,14360,COD,5
+ORD1276,09-01-2025,Customer_225,Kolkata,Furniture,Sofa,Sofa Set,5,1849,9245,0.1,1343,Credit Card,5
+ORD1277,08-02-2025,Customer_263,Chennai,Furniture,Sofa,Sofa Set,3,48334,145002,0,13494,UPI,4
+ORD1278,12-02-2025,Customer_228,Delhi,Electronics,Tablet,Tablet Z,2,28660,57320,0.15,9232,COD,4
+ORD1279,08-01-2025,Customer_39,Delhi,Furniture,Sofa,Sofa Set,1,17559,17559,0.1,1815,COD,5
+ORD1280,24-01-2025,Customer_134,Kolkata,Electronics,Laptop,Laptop Pro,4,10028,40112,0.2,4863,COD,3
+ORD1281,06-02-2025,Customer_226,Mumbai,Furniture,Table,Dining Table,5,44465,222325,0.15,18345,UPI,3
+ORD1282,11-02-2025,Customer_35,Kolkata,Furniture,Table,Dining Table,5,40232,201160,0.05,37708,UPI,4
+ORD1283,20-02-2025,Customer_12,Delhi,Electronics,Laptop,Laptop Pro,4,7487,29948,0.15,3943,UPI,3
+ORD1284,13-02-2025,Customer_164,Kolkata,Electronics,Tablet,Tablet Z,4,35813,143252,0.15,28021,Credit Card,2
+ORD1285,09-01-2025,Customer_15,Bangalore,Electronics,Tablet,Tablet Z,4,47696,190784,0.05,11726,COD,4
+ORD1286,02-02-2025,Customer_213,Chennai,Clothing,Jeans,Blue Jeans,3,10786,32358,0.15,1920,Credit Card,4
+ORD1287,21-02-2025,Customer_53,Delhi,Electronics,Mobile,Smartphone X,3,14760,44280,0,8828,COD,2
+ORD1288,02-02-2025,Customer_41,Chennai,Furniture,Chair,Office Chair,4,43762,175048,0.1,25359,COD,5
+ORD1289,08-01-2025,Customer_263,Mumbai,Clothing,Jeans,Blue Jeans,2,36439,72878,0.2,5629,Credit Card,3
+ORD1290,24-02-2025,Customer_24,Kolkata,Clothing,Jeans,Blue Jeans,1,48000,48000,0.05,5591,Credit Card,4
+ORD1291,23-01-2025,Customer_183,Mumbai,Electronics,Mobile,Smartphone X,3,29202,87606,0.2,16892,COD,3
+ORD1292,01-01-2025,Customer_284,Kolkata,Furniture,Sofa,Sofa Set,5,8052,40260,0.2,5105,COD,3
+ORD1293,11-02-2025,Customer_299,Delhi,Clothing,Shirt,Formal Shirt,3,32205,96615,0.1,15921,UPI,2
+ORD1294,18-01-2025,Customer_103,Mumbai,Clothing,Shirt,Formal Shirt,2,5534,11068,0.15,2034,COD,5
+ORD1295,02-02-2025,Customer_182,Delhi,Electronics,Tablet,Tablet Z,5,12491,62455,0,8004,UPI,4
+ORD1296,16-01-2025,Customer_87,Mumbai,Furniture,Table,Dining Table,3,21850,65550,0.2,8416,COD,5
+ORD1297,07-01-2025,Customer_99,Delhi,Furniture,Table,Dining Table,5,24009,120045,0,14819,Credit Card,4
+ORD1298,15-01-2025,Customer_272,Chennai,Furniture,Table,Dining Table,1,7732,7732,0.15,1540,COD,3
+ORD1299,19-02-2025,Customer_120,Bangalore,Electronics,Tablet,Tablet Z,3,7043,21129,0.2,1087,Credit Card,4
+ORD1300,20-01-2025,Customer_136,Kolkata,Electronics,Laptop,Laptop Pro,5,38276,191380,0.2,13636,COD,5
+ORD1301,26-01-2025,Customer_256,Bangalore,Furniture,Sofa,Sofa Set,4,33117,132468,0.15,10945,COD,2
+ORD1302,07-01-2025,Customer_112,Delhi,Clothing,Shirt,Formal Shirt,2,36997,73994,0.2,13322,Credit Card,4
+ORD1303,07-01-2025,Customer_121,Chennai,Electronics,Laptop,Laptop Pro,3,39892,119676,0,8917,UPI,3
+ORD1304,17-02-2025,Customer_260,Delhi,Furniture,Chair,Office Chair,2,42044,84088,0.2,10844,UPI,2
+ORD1305,10-01-2025,Customer_64,Mumbai,Clothing,Jeans,Blue Jeans,3,10554,31662,0.1,1807,COD,4
+ORD1306,13-01-2025,Customer_136,Mumbai,Clothing,Jeans,Blue Jeans,1,42322,42322,0.1,2711,Credit Card,4
+ORD1307,28-01-2025,Customer_6,Bangalore,Clothing,Shirt,Casual Shirt,4,36975,147900,0.05,17012,Credit Card,4
+ORD1308,02-03-2025,Customer_7,Kolkata,Furniture,Chair,Office Chair,2,34211,68422,0.1,6588,UPI,5
+ORD1309,23-01-2025,Customer_269,Delhi,Clothing,Jeans,Blue Jeans,3,23681,71043,0.1,5212,Credit Card,3
+ORD1310,07-01-2025,Customer_144,Delhi,Furniture,Chair,Office Chair,5,32937,164685,0.1,28243,UPI,3
+ORD1311,18-02-2025,Customer_244,Kolkata,Electronics,Tablet,Tablet Z,3,6545,19635,0,2620,Credit Card,3
+ORD1312,02-01-2025,Customer_68,Mumbai,Electronics,Tablet,Tablet Z,1,12329,12329,0.15,2351,COD,4
+ORD1313,05-02-2025,Customer_165,Chennai,Clothing,Shirt,Formal Shirt,5,26392,131960,0,23054,UPI,3
+ORD1314,05-02-2025,Customer_38,Chennai,Electronics,Tablet,Tablet Z,2,19944,39888,0.15,2990,COD,5
+ORD1315,22-01-2025,Customer_68,Mumbai,Electronics,Mobile,Smartphone X,5,3624,18120,0.1,1907,Credit Card,3
+ORD1316,05-01-2025,Customer_236,Bangalore,Electronics,Tablet,Tablet Z,3,33336,100008,0.15,5487,COD,1
+ORD1317,14-02-2025,Customer_279,Delhi,Furniture,Chair,Office Chair,4,21601,86404,0.2,5233,COD,3
+ORD1318,16-02-2025,Customer_52,Chennai,Clothing,Shirt,Formal Shirt,4,14453,57812,0.05,5318,COD,4
+ORD1319,31-01-2025,Customer_107,Chennai,Clothing,Shirt,Casual Shirt,5,23563,117815,0.05,19438,UPI,3
+ORD1320,25-01-2025,Customer_84,Chennai,Electronics,Mobile,Smartphone X,3,13805,41415,0,6560,UPI,4
+ORD1321,04-02-2025,Customer_3,Delhi,Furniture,Table,Dining Table,2,16365,32730,0.1,5628,Credit Card,4
+ORD1322,01-01-2025,Customer_62,Delhi,Clothing,Shirt,Formal Shirt,4,21108,84432,0.05,7442,COD,2
+ORD1323,08-01-2025,Customer_269,Mumbai,Furniture,Sofa,Sofa Set,1,16412,16412,0.1,2743,UPI,1
+ORD1324,22-02-2025,Customer_60,Kolkata,Furniture,Sofa,Sofa Set,1,37804,37804,0.05,1966,Credit Card,3
+ORD1325,15-02-2025,Customer_226,Delhi,Furniture,Table,Dining Table,2,13220,26440,0.1,3470,Credit Card,2
+ORD1326,07-02-2025,Customer_11,Delhi,Clothing,Shirt,Formal Shirt,5,44997,224985,0.05,18074,COD,2
+ORD1327,02-03-2025,Customer_29,Chennai,Clothing,Jeans,Blue Jeans,2,22774,45548,0.1,6354,Credit Card,5
+ORD1328,22-02-2025,Customer_105,Chennai,Clothing,Jeans,Blue Jeans,3,10153,30459,0,2421,UPI,1
+ORD1329,01-03-2025,Customer_3,Chennai,Furniture,Sofa,Sofa Set,1,10314,10314,0.1,1071,UPI,1
+ORD1330,08-02-2025,Customer_290,Delhi,Electronics,Mobile,Smartphone X,5,8202,41010,0,7237,COD,1
+ORD1331,25-01-2025,Customer_124,Bangalore,Electronics,Tablet,Tablet Z,5,30958,154790,0.1,26797,UPI,5
+ORD1332,19-01-2025,Customer_214,Bangalore,Electronics,Tablet,Tablet Z,2,48427,96854,0.1,14651,Credit Card,5
+ORD1333,13-02-2025,Customer_183,Delhi,Furniture,Sofa,Sofa Set,5,35773,178865,0.15,15557,COD,2
+ORD1334,12-02-2025,Customer_42,Mumbai,Furniture,Table,Dining Table,2,18154,36308,0.1,4915,UPI,4
+ORD1335,23-01-2025,Customer_206,Chennai,Electronics,Tablet,Tablet Z,3,15956,47868,0.2,8614,COD,1
+ORD1336,21-01-2025,Customer_268,Kolkata,Furniture,Chair,Office Chair,1,25404,25404,0.15,3919,COD,3
+ORD1337,07-01-2025,Customer_237,Chennai,Furniture,Sofa,Sofa Set,5,513,2565,0.2,345,UPI,5
+ORD1338,27-01-2025,Customer_68,Chennai,Electronics,Laptop,Laptop Pro,3,32183,96549,0.1,6786,UPI,1
+ORD1339,09-02-2025,Customer_278,Chennai,Electronics,Tablet,Tablet Z,3,16428,49284,0.15,3226,COD,1
+ORD1340,15-02-2025,Customer_237,Chennai,Furniture,Sofa,Sofa Set,1,39507,39507,0.15,6075,COD,4
+ORD1341,04-01-2025,Customer_211,Delhi,Electronics,Mobile,Smartphone X,1,8899,8899,0.15,785,Credit Card,2
+ORD1342,21-01-2025,Customer_98,Delhi,Electronics,Tablet,Tablet Z,3,41219,123657,0,16545,Credit Card,5
+ORD1343,02-03-2025,Customer_236,Chennai,Electronics,Laptop,Laptop Pro,3,22902,68706,0.15,10923,Credit Card,1
+ORD1344,14-01-2025,Customer_243,Chennai,Electronics,Tablet,Tablet Z,4,6286,25144,0.15,3692,UPI,5
+ORD1345,14-01-2025,Customer_118,Chennai,Furniture,Sofa,Sofa Set,3,10786,32358,0.15,4201,UPI,1
+ORD1346,06-01-2025,Customer_96,Chennai,Furniture,Table,Dining Table,4,9257,37028,0.05,2074,COD,5
+ORD1347,23-02-2025,Customer_243,Chennai,Electronics,Tablet,Tablet Z,3,26329,78987,0.2,4645,COD,2
+ORD1348,17-01-2025,Customer_133,Bangalore,Furniture,Sofa,Sofa Set,4,42781,171124,0.2,12964,UPI,2
+ORD1349,28-02-2025,Customer_154,Delhi,Clothing,Shirt,Formal Shirt,1,14668,14668,0.2,872,UPI,5
+ORD1350,01-01-2025,Customer_150,Kolkata,Furniture,Sofa,Sofa Set,3,18621,55863,0.15,7829,COD,1
+ORD1351,21-01-2025,Customer_263,Chennai,Clothing,Shirt,Casual Shirt,4,36634,146536,0.05,19217,UPI,5
+ORD1352,09-01-2025,Customer_88,Chennai,Electronics,Mobile,Smartphone X,2,9897,19794,0.1,1958,COD,1
+ORD1353,28-01-2025,Customer_171,Bangalore,Clothing,Shirt,Formal Shirt,3,25680,77040,0,13297,UPI,5
+ORD1354,16-01-2025,Customer_253,Delhi,Electronics,Laptop,Laptop Pro,3,28404,85212,0.1,15412,COD,3
+ORD1355,22-02-2025,Customer_168,Mumbai,Electronics,Tablet,Tablet Z,5,24343,121715,0.1,18388,COD,1
+ORD1356,01-01-2025,Customer_121,Delhi,Clothing,Shirt,Formal Shirt,1,41101,41101,0.1,7456,COD,4
+ORD1357,24-01-2025,Customer_157,Bangalore,Furniture,Sofa,Sofa Set,1,26249,26249,0,1757,Credit Card,1
+ORD1358,02-02-2025,Customer_288,Kolkata,Furniture,Sofa,Sofa Set,5,35278,176390,0.1,9286,COD,4
+ORD1359,20-01-2025,Customer_248,Kolkata,Electronics,Mobile,Smartphone X,2,26499,52998,0.2,3831,UPI,3
+ORD1360,26-02-2025,Customer_184,Chennai,Electronics,Tablet,Tablet Z,5,44237,221185,0.15,33883,UPI,3
+ORD1361,18-01-2025,Customer_199,Mumbai,Furniture,Table,Dining Table,2,17210,34420,0.1,6568,COD,5
+ORD1362,30-01-2025,Customer_18,Delhi,Clothing,Shirt,Formal Shirt,4,9936,39744,0.05,5842,Credit Card,5
+ORD1363,11-01-2025,Customer_72,Bangalore,Furniture,Table,Dining Table,1,44601,44601,0.15,6762,UPI,2
+ORD1364,01-03-2025,Customer_123,Bangalore,Clothing,Shirt,Formal Shirt,3,17078,51234,0.2,8914,Credit Card,3
+ORD1365,07-01-2025,Customer_83,Delhi,Furniture,Chair,Office Chair,4,924,3696,0.2,462,UPI,5
+ORD1366,09-01-2025,Customer_211,Chennai,Clothing,Jeans,Blue Jeans,4,41640,166560,0.2,24830,COD,1
+ORD1367,04-01-2025,Customer_14,Chennai,Furniture,Chair,Office Chair,3,715,2145,0.1,360,COD,4
+ORD1368,23-01-2025,Customer_157,Bangalore,Furniture,Chair,Office Chair,3,34012,102036,0.2,7231,Credit Card,2
+ORD1369,10-02-2025,Customer_106,Delhi,Clothing,Jeans,Blue Jeans,4,28910,115640,0.15,10982,UPI,2
+ORD1370,23-01-2025,Customer_55,Kolkata,Electronics,Laptop,Laptop Pro,5,36039,180195,0,20276,UPI,4
+ORD1371,27-01-2025,Customer_21,Bangalore,Clothing,Jeans,Blue Jeans,5,39659,198295,0,32974,COD,3
+ORD1372,09-02-2025,Customer_230,Kolkata,Furniture,Sofa,Sofa Set,5,39035,195175,0.05,37850,UPI,3
+ORD1373,13-02-2025,Customer_28,Bangalore,Furniture,Chair,Office Chair,2,26860,53720,0.05,6132,UPI,5
+ORD1374,01-03-2025,Customer_28,Kolkata,Clothing,Shirt,Casual Shirt,1,11333,11333,0.15,1679,COD,5
+ORD1375,17-01-2025,Customer_193,Delhi,Electronics,Tablet,Tablet Z,3,22156,66468,0.2,4594,COD,5
+ORD1376,12-01-2025,Customer_236,Mumbai,Electronics,Laptop,Laptop Pro,4,43925,175700,0.1,19057,COD,2
+ORD1377,03-02-2025,Customer_35,Kolkata,Furniture,Chair,Office Chair,5,28270,141350,0.2,17979,COD,5
+ORD1378,29-01-2025,Customer_73,Chennai,Electronics,Mobile,Smartphone X,3,30748,92244,0,16214,UPI,3
+ORD1379,10-01-2025,Customer_161,Bangalore,Clothing,Shirt,Formal Shirt,3,2899,8697,0,1366,COD,4
+ORD1380,27-02-2025,Customer_113,Mumbai,Electronics,Laptop,Laptop Pro,5,22708,113540,0.1,18411,COD,1
+ORD1381,27-02-2025,Customer_190,Mumbai,Furniture,Sofa,Sofa Set,4,15313,61252,0.2,3656,COD,1
+ORD1382,10-01-2025,Customer_74,Mumbai,Furniture,Chair,Office Chair,2,15997,31994,0.05,2747,Credit Card,1
+ORD1383,09-01-2025,Customer_13,Kolkata,Furniture,Sofa,Sofa Set,1,16712,16712,0,2994,Credit Card,1
+ORD1384,17-02-2025,Customer_128,Mumbai,Furniture,Sofa,Sofa Set,1,8759,8759,0.1,772,COD,2
+ORD1385,20-01-2025,Customer_121,Kolkata,Clothing,Shirt,Formal Shirt,4,29647,118588,0.05,11368,COD,5
+ORD1386,27-01-2025,Customer_144,Bangalore,Clothing,Shirt,Casual Shirt,5,25800,129000,0.2,12278,Credit Card,3
+ORD1387,03-02-2025,Customer_55,Bangalore,Furniture,Chair,Office Chair,2,42290,84580,0.1,14991,COD,5
+ORD1388,05-01-2025,Customer_80,Chennai,Furniture,Table,Dining Table,4,1062,4248,0.05,371,COD,2
+ORD1389,20-02-2025,Customer_161,Mumbai,Clothing,Shirt,Casual Shirt,3,28437,85311,0.05,16065,COD,3
+ORD1390,12-02-2025,Customer_235,Delhi,Electronics,Laptop,Laptop Pro,4,42121,168484,0,19137,Credit Card,1
+ORD1391,24-02-2025,Customer_292,Mumbai,Electronics,Tablet,Tablet Z,4,42389,169556,0.05,27146,Credit Card,5
+ORD1392,23-02-2025,Customer_127,Delhi,Furniture,Sofa,Sofa Set,5,28840,144200,0,8566,UPI,5
+ORD1393,02-03-2025,Customer_112,Kolkata,Clothing,Jeans,Blue Jeans,1,24283,24283,0.05,1780,Credit Card,3
+ORD1394,08-01-2025,Customer_257,Chennai,Clothing,Shirt,Formal Shirt,3,42150,126450,0.05,15048,Credit Card,4
+ORD1395,18-01-2025,Customer_203,Bangalore,Furniture,Chair,Office Chair,2,15818,31636,0,3517,UPI,1
+ORD1396,02-02-2025,Customer_124,Mumbai,Clothing,Jeans,Blue Jeans,1,8693,8693,0.15,1380,COD,5
+ORD1397,11-01-2025,Customer_200,Kolkata,Clothing,Jeans,Blue Jeans,2,39695,79390,0.1,15490,COD,1
+ORD1398,25-01-2025,Customer_92,Delhi,Furniture,Sofa,Sofa Set,4,43459,173836,0.2,13780,UPI,1
+ORD1399,18-02-2025,Customer_115,Delhi,Clothing,Shirt,Formal Shirt,2,35806,71612,0.1,9314,COD,4
+ORD1400,01-01-2025,Customer_2,Mumbai,Clothing,Shirt,Formal Shirt,2,42391,84782,0.1,13361,Credit Card,3
+ORD1401,23-02-2025,Customer_293,Kolkata,Clothing,Jeans,Blue Jeans,5,5420,27100,0.15,5017,UPI,3
+ORD1402,02-03-2025,Customer_277,Delhi,Furniture,Table,Dining Table,4,47993,191972,0.05,19385,Credit Card,2
+ORD1403,23-02-2025,Customer_249,Mumbai,Electronics,Mobile,Smartphone X,3,44496,133488,0.05,8170,COD,5
+ORD1404,07-01-2025,Customer_154,Chennai,Electronics,Mobile,Smartphone X,1,30390,30390,0.05,3455,Credit Card,4
+ORD1405,02-03-2025,Customer_242,Bangalore,Electronics,Tablet,Tablet Z,4,18872,75488,0.15,4470,COD,4
+ORD1406,01-01-2025,Customer_19,Chennai,Clothing,Shirt,Casual Shirt,5,6837,34185,0.05,2504,UPI,5
+ORD1407,11-02-2025,Customer_72,Kolkata,Electronics,Mobile,Smartphone X,1,11160,11160,0.05,1149,Credit Card,1
+ORD1408,07-02-2025,Customer_240,Bangalore,Clothing,Jeans,Blue Jeans,5,12603,63015,0.05,9930,COD,5
+ORD1409,12-02-2025,Customer_130,Delhi,Electronics,Laptop,Laptop Pro,3,19920,59760,0.15,9745,UPI,4
+ORD1410,19-01-2025,Customer_122,Bangalore,Furniture,Chair,Office Chair,1,7322,7322,0.15,1426,COD,5
+ORD1411,23-02-2025,Customer_76,Chennai,Electronics,Mobile,Smartphone X,5,24611,123055,0.2,16623,COD,1
+ORD1412,27-01-2025,Customer_44,Kolkata,Electronics,Laptop,Laptop Pro,2,14789,29578,0.1,5718,COD,5
+ORD1413,12-02-2025,Customer_258,Chennai,Furniture,Chair,Office Chair,3,28687,86061,0.2,7876,UPI,1
+ORD1414,27-01-2025,Customer_180,Mumbai,Furniture,Sofa,Sofa Set,4,12590,50360,0.15,8059,UPI,5
+ORD1415,25-01-2025,Customer_163,Bangalore,Electronics,Tablet,Tablet Z,3,23740,71220,0.1,12710,COD,1
+ORD1416,12-01-2025,Customer_267,Delhi,Clothing,Shirt,Casual Shirt,1,13758,13758,0.15,2479,UPI,3
+ORD1417,03-01-2025,Customer_264,Mumbai,Clothing,Shirt,Casual Shirt,1,19339,19339,0.05,2035,COD,4
+ORD1418,18-02-2025,Customer_231,Bangalore,Furniture,Chair,Office Chair,1,34716,34716,0.15,5243,UPI,2
+ORD1419,04-02-2025,Customer_205,Kolkata,Electronics,Mobile,Smartphone X,5,40005,200025,0.15,30650,UPI,4
+ORD1420,01-02-2025,Customer_73,Chennai,Clothing,Shirt,Casual Shirt,2,46725,93450,0.2,15584,Credit Card,1
+ORD1421,25-01-2025,Customer_46,Mumbai,Electronics,Tablet,Tablet Z,5,5683,28415,0,5493,COD,3
+ORD1422,04-01-2025,Customer_104,Bangalore,Electronics,Tablet,Tablet Z,5,30492,152460,0.15,28196,Credit Card,3
+ORD1423,18-02-2025,Customer_49,Delhi,Furniture,Chair,Office Chair,4,43840,175360,0.05,14061,COD,1
+ORD1424,08-02-2025,Customer_71,Kolkata,Furniture,Chair,Office Chair,1,23901,23901,0,2202,COD,1
+ORD1425,08-01-2025,Customer_231,Kolkata,Electronics,Mobile,Smartphone X,1,23441,23441,0.15,1748,Credit Card,1
+ORD1426,28-01-2025,Customer_223,Mumbai,Electronics,Laptop,Laptop Pro,1,658,658,0,115,UPI,5
+ORD1427,27-01-2025,Customer_190,Chennai,Clothing,Shirt,Casual Shirt,1,18071,18071,0.05,3517,COD,2
+ORD1428,03-01-2025,Customer_161,Mumbai,Clothing,Shirt,Casual Shirt,4,46975,187900,0.2,10542,COD,5
+ORD1429,18-01-2025,Customer_174,Kolkata,Clothing,Shirt,Formal Shirt,2,32838,65676,0,4227,UPI,1
+ORD1430,22-01-2025,Customer_279,Bangalore,Furniture,Sofa,Sofa Set,3,26503,79509,0.05,15753,Credit Card,1
+ORD1431,13-02-2025,Customer_222,Kolkata,Clothing,Jeans,Blue Jeans,1,6375,6375,0.15,871,UPI,3
+ORD1432,28-01-2025,Customer_38,Chennai,Electronics,Tablet,Tablet Z,5,14967,74835,0.05,8675,UPI,1
+ORD1433,10-01-2025,Customer_73,Delhi,Electronics,Mobile,Smartphone X,4,35556,142224,0.2,20556,COD,1
+ORD1434,14-02-2025,Customer_229,Chennai,Furniture,Chair,Office Chair,4,22909,91636,0.2,10288,COD,2
+ORD1435,12-01-2025,Customer_152,Delhi,Furniture,Table,Dining Table,4,1500,6000,0.2,843,Credit Card,3
+ORD1436,08-02-2025,Customer_241,Bangalore,Electronics,Mobile,Smartphone X,3,6519,19557,0.1,1257,Credit Card,2
+ORD1437,29-01-2025,Customer_217,Mumbai,Furniture,Chair,Office Chair,5,32028,160140,0.1,29917,COD,1
+ORD1438,14-01-2025,Customer_207,Delhi,Clothing,Jeans,Blue Jeans,3,44648,133944,0.2,8650,Credit Card,1
+ORD1439,04-01-2025,Customer_273,Delhi,Furniture,Chair,Office Chair,1,23973,23973,0.1,4090,COD,3
+ORD1440,11-01-2025,Customer_60,Chennai,Furniture,Sofa,Sofa Set,5,33588,167940,0,19481,Credit Card,1
+ORD1441,26-01-2025,Customer_261,Delhi,Furniture,Table,Dining Table,5,17352,86760,0.2,6836,UPI,3
+ORD1442,15-02-2025,Customer_99,Delhi,Furniture,Sofa,Sofa Set,5,32667,163335,0.1,29118,COD,5
+ORD1443,23-02-2025,Customer_135,Kolkata,Clothing,Shirt,Formal Shirt,3,22303,66909,0.15,8496,UPI,5
+ORD1444,23-01-2025,Customer_114,Chennai,Clothing,Shirt,Casual Shirt,2,19888,39776,0.1,5300,Credit Card,2
+ORD1445,07-02-2025,Customer_37,Bangalore,Furniture,Table,Dining Table,5,44041,220205,0.15,19025,COD,1
+ORD1446,18-02-2025,Customer_7,Bangalore,Furniture,Chair,Office Chair,1,46317,46317,0.05,4431,Credit Card,5
+ORD1447,23-02-2025,Customer_170,Kolkata,Electronics,Mobile,Smartphone X,1,3186,3186,0.05,574,Credit Card,5
+ORD1448,14-01-2025,Customer_11,Chennai,Clothing,Shirt,Casual Shirt,1,23564,23564,0.15,4256,COD,1
+ORD1449,01-03-2025,Customer_237,Delhi,Clothing,Shirt,Casual Shirt,3,27550,82650,0,12350,UPI,3
+ORD1450,02-03-2025,Customer_175,Chennai,Furniture,Chair,Office Chair,4,9506,38024,0,4980,Credit Card,2
+ORD1451,12-02-2025,Customer_295,Bangalore,Furniture,Chair,Office Chair,4,24755,99020,0.2,10768,COD,2
+ORD1452,11-01-2025,Customer_119,Bangalore,Furniture,Table,Dining Table,1,22648,22648,0.05,4301,UPI,3
+ORD1453,10-01-2025,Customer_42,Bangalore,Clothing,Shirt,Formal Shirt,1,22670,22670,0.15,4380,COD,1
+ORD1454,01-03-2025,Customer_147,Chennai,Clothing,Shirt,Formal Shirt,3,22231,66693,0.1,3630,Credit Card,5
+ORD1455,02-01-2025,Customer_69,Delhi,Furniture,Table,Dining Table,1,27001,27001,0.15,1956,Credit Card,1
+ORD1456,17-01-2025,Customer_11,Mumbai,Furniture,Chair,Office Chair,1,41001,41001,0.15,5311,UPI,1
+ORD1457,25-01-2025,Customer_157,Mumbai,Clothing,Shirt,Formal Shirt,1,31298,31298,0.05,1953,Credit Card,2
+ORD1458,10-02-2025,Customer_180,Bangalore,Clothing,Jeans,Blue Jeans,1,39612,39612,0.15,3584,COD,1
+ORD1459,23-02-2025,Customer_196,Kolkata,Electronics,Tablet,Tablet Z,5,25029,125145,0,20631,Credit Card,3
+ORD1460,22-02-2025,Customer_174,Chennai,Furniture,Chair,Office Chair,2,11711,23422,0.2,2333,UPI,5
+ORD1461,24-01-2025,Customer_173,Bangalore,Furniture,Chair,Office Chair,2,44212,88424,0.2,11646,COD,1
+ORD1462,02-03-2025,Customer_247,Delhi,Furniture,Sofa,Sofa Set,3,29441,88323,0.2,7830,COD,5
+ORD1463,06-01-2025,Customer_254,Mumbai,Furniture,Sofa,Sofa Set,4,45365,181460,0.1,36209,UPI,5
+ORD1464,11-02-2025,Customer_229,Chennai,Furniture,Sofa,Sofa Set,2,23977,47954,0.05,9531,Credit Card,5
+ORD1465,16-01-2025,Customer_216,Delhi,Furniture,Chair,Office Chair,2,11964,23928,0.05,3019,UPI,4
+ORD1466,04-02-2025,Customer_61,Chennai,Electronics,Mobile,Smartphone X,2,30669,61338,0.2,4959,UPI,2
+ORD1467,01-01-2025,Customer_123,Chennai,Electronics,Laptop,Laptop Pro,4,36082,144328,0.1,20404,COD,2
+ORD1468,05-01-2025,Customer_102,Bangalore,Electronics,Laptop,Laptop Pro,4,31122,124488,0.05,20504,UPI,2
+ORD1469,10-02-2025,Customer_138,Bangalore,Clothing,Shirt,Casual Shirt,3,9291,27873,0.15,3307,Credit Card,3
+ORD1470,09-02-2025,Customer_103,Mumbai,Clothing,Jeans,Blue Jeans,3,8220,24660,0,4615,Credit Card,3
+ORD1471,08-01-2025,Customer_246,Kolkata,Clothing,Shirt,Casual Shirt,1,10215,10215,0.2,1831,UPI,1
+ORD1472,11-01-2025,Customer_227,Delhi,Electronics,Mobile,Smartphone X,1,4214,4214,0,296,Credit Card,1
+ORD1473,20-02-2025,Customer_87,Chennai,Electronics,Mobile,Smartphone X,1,23438,23438,0,4118,UPI,2
+ORD1474,12-01-2025,Customer_207,Delhi,Furniture,Chair,Office Chair,4,31342,125368,0.1,18328,UPI,1
+ORD1475,26-01-2025,Customer_21,Kolkata,Furniture,Table,Dining Table,4,24347,97388,0.1,18655,Credit Card,5
+ORD1476,05-02-2025,Customer_120,Delhi,Clothing,Shirt,Formal Shirt,4,7236,28944,0.15,5723,Credit Card,1
+ORD1477,11-02-2025,Customer_75,Mumbai,Clothing,Jeans,Blue Jeans,3,23555,70665,0.15,6421,UPI,1
+ORD1478,08-01-2025,Customer_59,Delhi,Clothing,Shirt,Formal Shirt,4,1348,5392,0.2,980,Credit Card,3
+ORD1479,15-01-2025,Customer_83,Mumbai,Electronics,Tablet,Tablet Z,4,20686,82744,0.15,11954,COD,4
+ORD1480,21-02-2025,Customer_192,Delhi,Electronics,Tablet,Tablet Z,4,1821,7284,0.1,863,Credit Card,4
+ORD1481,20-01-2025,Customer_278,Kolkata,Furniture,Chair,Office Chair,4,14192,56768,0.05,9535,UPI,4
+ORD1482,25-01-2025,Customer_211,Chennai,Electronics,Tablet,Tablet Z,1,41301,41301,0.2,3791,Credit Card,2
+ORD1483,22-01-2025,Customer_35,Chennai,Clothing,Shirt,Casual Shirt,3,11200,33600,0.05,4982,COD,2
+ORD1484,30-01-2025,Customer_165,Mumbai,Furniture,Table,Dining Table,4,39022,156088,0.15,22493,COD,1
+ORD1485,26-01-2025,Customer_252,Mumbai,Electronics,Laptop,Laptop Pro,1,29876,29876,0.1,5086,COD,2
+ORD1486,22-01-2025,Customer_208,Bangalore,Electronics,Tablet,Tablet Z,1,29752,29752,0.15,5238,COD,1
+ORD1487,14-01-2025,Customer_38,Chennai,Furniture,Chair,Office Chair,4,41155,164620,0.15,32288,Credit Card,2
+ORD1488,25-01-2025,Customer_61,Mumbai,Furniture,Table,Dining Table,4,1461,5844,0.15,898,Credit Card,4
+ORD1489,11-01-2025,Customer_162,Delhi,Electronics,Mobile,Smartphone X,3,19392,58176,0,5165,UPI,3
+ORD1490,02-02-2025,Customer_89,Bangalore,Electronics,Tablet,Tablet Z,1,14025,14025,0.2,1177,COD,3
+ORD1491,02-02-2025,Customer_83,Mumbai,Electronics,Tablet,Tablet Z,4,13729,54916,0.1,4269,COD,2
+ORD1492,22-01-2025,Customer_258,Chennai,Clothing,Jeans,Blue Jeans,1,41186,41186,0.1,4698,UPI,4
+ORD1493,14-01-2025,Customer_259,Bangalore,Clothing,Shirt,Casual Shirt,4,13377,53508,0.2,9299,UPI,3
+ORD1494,14-02-2025,Customer_204,Mumbai,Furniture,Table,Dining Table,1,34980,34980,0,4553,UPI,3
+ORD1495,09-01-2025,Customer_122,Delhi,Electronics,Tablet,Tablet Z,4,4490,17960,0.15,2183,COD,4
+ORD1496,02-01-2025,Customer_92,Mumbai,Electronics,Tablet,Tablet Z,2,43591,87182,0.05,8981,COD,5
+ORD1497,17-02-2025,Customer_172,Chennai,Furniture,Table,Dining Table,2,23702,47404,0.05,3997,UPI,4
+ORD1498,15-01-2025,Customer_70,Kolkata,Electronics,Mobile,Smartphone X,5,12883,64415,0.15,7379,Credit Card,3
+ORD1499,13-01-2025,Customer_216,Mumbai,Clothing,Shirt,Formal Shirt,1,14783,14783,0,2170,UPI,5
+ORD1500,05-01-2025,Customer_242,Kolkata,Electronics,Laptop,Laptop Pro,1,21268,21268,0.1,1298,Credit Card,2
+ORD1501,04-01-2025,Customer_65,Bangalore,Electronics,Laptop,Laptop Pro,2,32544,65088,0.15,8034,Credit Card,1
+ORD1502,17-01-2025,Customer_80,Delhi,Furniture,Table,Dining Table,5,40660,203300,0.05,27103,UPI,2
+ORD1503,01-03-2025,Customer_281,Chennai,Electronics,Mobile,Smartphone X,3,23043,69129,0.15,8105,Credit Card,4
+ORD1504,26-01-2025,Customer_92,Kolkata,Electronics,Laptop,Laptop Pro,1,4088,4088,0.15,600,COD,4
+ORD1505,09-01-2025,Customer_237,Kolkata,Electronics,Laptop,Laptop Pro,2,35552,71104,0.2,5540,COD,3
+ORD1506,19-02-2025,Customer_226,Delhi,Electronics,Tablet,Tablet Z,4,30338,121352,0.05,6690,Credit Card,2
+ORD1507,14-02-2025,Customer_163,Bangalore,Clothing,Jeans,Blue Jeans,3,24179,72537,0.05,11411,UPI,4
+ORD1508,27-01-2025,Customer_24,Delhi,Furniture,Sofa,Sofa Set,5,28306,141530,0,12957,COD,4
+ORD1509,25-01-2025,Customer_74,Delhi,Furniture,Sofa,Sofa Set,5,39598,197990,0,20366,COD,1
+ORD1510,23-01-2025,Customer_45,Delhi,Electronics,Mobile,Smartphone X,5,41143,205715,0.2,17641,COD,4
+ORD1511,02-02-2025,Customer_50,Mumbai,Furniture,Table,Dining Table,3,45068,135204,0.05,10724,COD,5
+ORD1512,15-01-2025,Customer_150,Mumbai,Furniture,Table,Dining Table,3,45988,137964,0.1,24368,Credit Card,2
+ORD1513,15-02-2025,Customer_89,Delhi,Electronics,Laptop,Laptop Pro,5,9004,45020,0.1,5743,COD,5
+ORD1514,27-02-2025,Customer_147,Bangalore,Electronics,Laptop,Laptop Pro,4,33445,133780,0,14693,UPI,2
+ORD1515,03-01-2025,Customer_70,Mumbai,Clothing,Shirt,Formal Shirt,2,24466,48932,0.1,7755,UPI,5
+ORD1516,27-02-2025,Customer_74,Delhi,Clothing,Jeans,Blue Jeans,1,38094,38094,0.2,7192,Credit Card,2
+ORD1517,05-02-2025,Customer_24,Bangalore,Furniture,Sofa,Sofa Set,1,44916,44916,0.2,3527,Credit Card,5
+ORD1518,13-02-2025,Customer_44,Kolkata,Clothing,Shirt,Formal Shirt,5,48995,244975,0.15,34036,UPI,1
+ORD1519,01-03-2025,Customer_283,Delhi,Furniture,Sofa,Sofa Set,3,17671,53013,0.15,7320,COD,2
+ORD1520,02-01-2025,Customer_170,Chennai,Furniture,Table,Dining Table,5,21224,106120,0.15,11485,UPI,1
+ORD1521,02-03-2025,Customer_92,Mumbai,Clothing,Shirt,Formal Shirt,4,33710,134840,0,18565,Credit Card,4
+ORD1522,17-02-2025,Customer_274,Mumbai,Electronics,Tablet,Tablet Z,5,18982,94910,0.2,13622,UPI,4
+ORD1523,04-01-2025,Customer_116,Kolkata,Electronics,Laptop,Laptop Pro,5,42779,213895,0.15,22561,Credit Card,4
+ORD1524,02-01-2025,Customer_124,Delhi,Clothing,Shirt,Casual Shirt,2,42712,85424,0.2,7249,UPI,1
+ORD1525,17-01-2025,Customer_177,Delhi,Clothing,Jeans,Blue Jeans,5,27826,139130,0.15,11444,Credit Card,5
+ORD1526,02-03-2025,Customer_86,Bangalore,Clothing,Shirt,Casual Shirt,3,24427,73281,0.1,10180,UPI,4
+ORD1527,12-02-2025,Customer_291,Mumbai,Electronics,Mobile,Smartphone X,2,32560,65120,0.05,5061,UPI,4
+ORD1528,20-02-2025,Customer_98,Mumbai,Furniture,Table,Dining Table,2,45700,91400,0.1,15829,COD,4
+ORD1529,09-01-2025,Customer_245,Chennai,Clothing,Shirt,Formal Shirt,4,49187,196748,0.1,28883,Credit Card,5
+ORD1530,08-01-2025,Customer_294,Chennai,Electronics,Laptop,Laptop Pro,3,11362,34086,0.1,5868,COD,3
+ORD1531,02-01-2025,Customer_249,Chennai,Electronics,Laptop,Laptop Pro,1,5281,5281,0.05,353,COD,3
+ORD1532,03-01-2025,Customer_94,Kolkata,Clothing,Shirt,Formal Shirt,3,18316,54948,0.05,6239,UPI,1
+ORD1533,18-02-2025,Customer_24,Delhi,Clothing,Shirt,Casual Shirt,3,31076,93228,0.05,15507,COD,1
+ORD1534,26-01-2025,Customer_254,Mumbai,Clothing,Shirt,Casual Shirt,5,27811,139055,0.1,15212,UPI,1
+ORD1535,07-02-2025,Customer_280,Bangalore,Clothing,Jeans,Blue Jeans,5,46084,230420,0,33580,Credit Card,2
+ORD1536,09-01-2025,Customer_3,Delhi,Clothing,Shirt,Formal Shirt,5,21503,107515,0.1,19696,Credit Card,3
+ORD1537,03-01-2025,Customer_192,Bangalore,Electronics,Tablet,Tablet Z,2,26962,53924,0.2,7451,UPI,1
+ORD1538,04-01-2025,Customer_203,Kolkata,Furniture,Table,Dining Table,1,8369,8369,0.15,629,COD,4
+ORD1539,17-01-2025,Customer_107,Chennai,Clothing,Shirt,Formal Shirt,5,49781,248905,0,39676,COD,2
+ORD1540,20-01-2025,Customer_157,Mumbai,Electronics,Mobile,Smartphone X,3,12963,38889,0.1,7258,COD,4
+ORD1541,25-02-2025,Customer_46,Mumbai,Clothing,Shirt,Casual Shirt,3,37675,113025,0,7455,COD,3
+ORD1542,04-02-2025,Customer_249,Kolkata,Clothing,Shirt,Formal Shirt,5,34556,172780,0.05,33598,Credit Card,1
+ORD1543,01-02-2025,Customer_129,Bangalore,Clothing,Shirt,Formal Shirt,1,46387,46387,0.2,6606,UPI,4
+ORD1544,14-01-2025,Customer_195,Mumbai,Furniture,Chair,Office Chair,3,48807,146421,0.15,23838,UPI,3
+ORD1545,03-01-2025,Customer_140,Bangalore,Clothing,Shirt,Casual Shirt,4,13367,53468,0.15,8333,UPI,1
+ORD1546,28-02-2025,Customer_11,Mumbai,Furniture,Table,Dining Table,1,34927,34927,0.05,2009,COD,5
+ORD1547,31-01-2025,Customer_75,Bangalore,Furniture,Table,Dining Table,1,31837,31837,0.2,3187,Credit Card,2
+ORD1548,13-02-2025,Customer_289,Chennai,Furniture,Sofa,Sofa Set,1,48877,48877,0.1,4655,COD,3
+ORD1549,09-02-2025,Customer_218,Delhi,Electronics,Tablet,Tablet Z,3,17037,51111,0,9739,Credit Card,4
+ORD1550,02-02-2025,Customer_12,Kolkata,Clothing,Jeans,Blue Jeans,2,22426,44852,0.1,2427,COD,2
+ORD1551,13-02-2025,Customer_269,Chennai,Electronics,Laptop,Laptop Pro,2,22674,45348,0.15,5557,UPI,3
+ORD1552,05-02-2025,Customer_66,Delhi,Clothing,Shirt,Casual Shirt,3,16673,50019,0.2,6085,Credit Card,1
+ORD1553,24-02-2025,Customer_267,Chennai,Electronics,Laptop,Laptop Pro,3,20419,61257,0,7211,UPI,5
+ORD1554,07-02-2025,Customer_192,Kolkata,Furniture,Table,Dining Table,3,49414,148242,0.1,11550,COD,2
+ORD1555,09-02-2025,Customer_3,Delhi,Furniture,Table,Dining Table,5,6830,34150,0.1,5720,UPI,2
+ORD1556,11-01-2025,Customer_209,Delhi,Furniture,Table,Dining Table,5,21799,108995,0.15,12617,UPI,4
+ORD1557,09-01-2025,Customer_238,Kolkata,Clothing,Shirt,Casual Shirt,5,27936,139680,0.2,14701,COD,3
+ORD1558,12-02-2025,Customer_5,Delhi,Clothing,Shirt,Casual Shirt,3,39894,119682,0.1,23398,COD,3
+ORD1559,01-03-2025,Customer_294,Delhi,Clothing,Shirt,Formal Shirt,2,47658,95316,0.1,12747,COD,4
+ORD1560,13-02-2025,Customer_96,Chennai,Clothing,Jeans,Blue Jeans,4,47865,191460,0.15,12638,Credit Card,1
+ORD1561,15-01-2025,Customer_201,Delhi,Furniture,Chair,Office Chair,2,8432,16864,0.1,3238,COD,4
+ORD1562,17-02-2025,Customer_267,Mumbai,Clothing,Shirt,Casual Shirt,3,44071,132213,0.1,25082,Credit Card,4
+ORD1563,30-01-2025,Customer_100,Delhi,Furniture,Sofa,Sofa Set,2,11783,23566,0.15,3438,UPI,3
+ORD1564,28-01-2025,Customer_23,Kolkata,Furniture,Sofa,Sofa Set,2,21599,43198,0.05,4815,Credit Card,1
+ORD1565,28-02-2025,Customer_10,Kolkata,Electronics,Tablet,Tablet Z,5,20953,104765,0.15,8654,Credit Card,2
+ORD1566,24-01-2025,Customer_24,Kolkata,Electronics,Laptop,Laptop Pro,5,43399,216995,0.05,32903,Credit Card,3
+ORD1567,02-03-2025,Customer_38,Delhi,Electronics,Mobile,Smartphone X,5,17509,87545,0.05,15647,UPI,1
+ORD1568,14-01-2025,Customer_253,Kolkata,Clothing,Shirt,Casual Shirt,4,10930,43720,0.15,4249,COD,3
+ORD1569,01-02-2025,Customer_28,Delhi,Electronics,Mobile,Smartphone X,1,42881,42881,0.05,4486,COD,2
+ORD1570,20-01-2025,Customer_241,Bangalore,Clothing,Shirt,Formal Shirt,2,17509,35018,0.2,2117,Credit Card,1
+ORD1571,01-03-2025,Customer_261,Chennai,Electronics,Laptop,Laptop Pro,3,20144,60432,0.2,8037,Credit Card,3
+ORD1572,14-01-2025,Customer_261,Delhi,Furniture,Chair,Office Chair,1,42762,42762,0.05,6438,COD,4
+ORD1573,20-02-2025,Customer_100,Kolkata,Electronics,Tablet,Tablet Z,5,27179,135895,0.15,20081,UPI,4
+ORD1574,02-01-2025,Customer_64,Bangalore,Clothing,Jeans,Blue Jeans,4,22030,88120,0.2,14580,Credit Card,3
+ORD1575,16-02-2025,Customer_63,Chennai,Furniture,Sofa,Sofa Set,1,33899,33899,0.05,3401,COD,4
+ORD1576,10-02-2025,Customer_113,Kolkata,Clothing,Shirt,Formal Shirt,3,14885,44655,0.15,4048,Credit Card,5
+ORD1577,19-02-2025,Customer_68,Kolkata,Electronics,Mobile,Smartphone X,3,18646,55938,0,9736,COD,4
+ORD1578,14-01-2025,Customer_155,Bangalore,Clothing,Jeans,Blue Jeans,5,33975,169875,0.1,23954,UPI,4
+ORD1579,03-02-2025,Customer_260,Kolkata,Furniture,Sofa,Sofa Set,1,46550,46550,0.05,7952,UPI,4
+ORD1580,09-02-2025,Customer_143,Kolkata,Electronics,Mobile,Smartphone X,3,17279,51837,0,3621,Credit Card,5
+ORD1581,31-01-2025,Customer_244,Mumbai,Clothing,Jeans,Blue Jeans,2,11379,22758,0.15,1285,Credit Card,5
+ORD1582,26-01-2025,Customer_230,Chennai,Furniture,Chair,Office Chair,4,41667,166668,0.05,18686,Credit Card,1
+ORD1583,11-01-2025,Customer_108,Bangalore,Clothing,Shirt,Casual Shirt,2,11615,23230,0.05,4107,COD,5
+ORD1584,27-01-2025,Customer_55,Chennai,Electronics,Mobile,Smartphone X,4,1250,5000,0,762,COD,4
+ORD1585,07-01-2025,Customer_27,Kolkata,Clothing,Shirt,Formal Shirt,4,21841,87364,0,12768,COD,1
+ORD1586,29-01-2025,Customer_139,Mumbai,Furniture,Table,Dining Table,1,2120,2120,0.15,211,UPI,2
+ORD1587,12-01-2025,Customer_260,Kolkata,Electronics,Tablet,Tablet Z,4,19377,77508,0.15,14111,COD,5
+ORD1588,19-02-2025,Customer_205,Delhi,Furniture,Sofa,Sofa Set,4,22544,90176,0.2,14897,UPI,4
+ORD1589,19-02-2025,Customer_113,Chennai,Clothing,Shirt,Formal Shirt,5,31579,157895,0.15,8820,COD,3
+ORD1590,05-02-2025,Customer_230,Bangalore,Furniture,Chair,Office Chair,2,24521,49042,0,5278,COD,4
+ORD1591,10-01-2025,Customer_174,Kolkata,Furniture,Sofa,Sofa Set,5,40103,200515,0.1,28729,UPI,1
+ORD1592,15-01-2025,Customer_209,Mumbai,Electronics,Laptop,Laptop Pro,4,31924,127696,0,23074,COD,4
+ORD1593,23-01-2025,Customer_147,Chennai,Furniture,Table,Dining Table,5,31044,155220,0.05,8901,Credit Card,2
+ORD1594,07-01-2025,Customer_249,Delhi,Electronics,Mobile,Smartphone X,5,30179,150895,0.15,9616,Credit Card,4
+ORD1595,11-02-2025,Customer_75,Bangalore,Electronics,Mobile,Smartphone X,3,41871,125613,0.1,17847,COD,1
+ORD1596,11-01-2025,Customer_183,Bangalore,Furniture,Chair,Office Chair,3,531,1593,0.05,300,Credit Card,3
+ORD1597,05-02-2025,Customer_12,Delhi,Furniture,Sofa,Sofa Set,3,38303,114909,0.05,19040,COD,5
+ORD1598,01-02-2025,Customer_6,Chennai,Electronics,Laptop,Laptop Pro,2,14146,28292,0.1,4706,COD,1
+ORD1599,26-01-2025,Customer_201,Mumbai,Clothing,Shirt,Casual Shirt,2,44507,89014,0.05,11600,Credit Card,1
+ORD1600,03-02-2025,Customer_276,Kolkata,Clothing,Shirt,Formal Shirt,2,37925,75850,0.1,12960,COD,5
+ORD1601,13-01-2025,Customer_80,Delhi,Furniture,Table,Dining Table,4,18549,74196,0.15,10993,COD,3
+ORD1602,16-02-2025,Customer_149,Mumbai,Furniture,Chair,Office Chair,5,34712,173560,0.2,31982,UPI,3
+ORD1603,05-02-2025,Customer_135,Chennai,Clothing,Jeans,Blue Jeans,3,34232,102696,0.2,16385,COD,1
+ORD1604,08-01-2025,Customer_88,Chennai,Clothing,Shirt,Formal Shirt,4,45900,183600,0.2,11718,Credit Card,2
+ORD1605,31-01-2025,Customer_197,Bangalore,Electronics,Laptop,Laptop Pro,2,29852,59704,0.1,3517,COD,5
+ORD1606,16-02-2025,Customer_2,Kolkata,Furniture,Table,Dining Table,5,11404,57020,0,5492,UPI,1
+ORD1607,11-02-2025,Customer_224,Mumbai,Clothing,Jeans,Blue Jeans,2,7030,14060,0.2,1158,COD,1
+ORD1608,22-02-2025,Customer_246,Bangalore,Clothing,Jeans,Blue Jeans,3,28736,86208,0.1,5849,COD,1
+ORD1609,28-02-2025,Customer_146,Kolkata,Furniture,Chair,Office Chair,2,29140,58280,0.15,3476,UPI,2
+ORD1610,12-01-2025,Customer_249,Chennai,Furniture,Chair,Office Chair,3,28558,85674,0.15,9121,UPI,2
+ORD1611,17-02-2025,Customer_242,Kolkata,Electronics,Mobile,Smartphone X,2,3717,7434,0.2,416,COD,5
+ORD1612,16-01-2025,Customer_238,Kolkata,Clothing,Jeans,Blue Jeans,3,16595,49785,0.05,9332,COD,3
+ORD1613,25-01-2025,Customer_115,Kolkata,Electronics,Tablet,Tablet Z,1,15870,15870,0.2,2716,Credit Card,5
+ORD1614,21-01-2025,Customer_8,Chennai,Clothing,Shirt,Formal Shirt,5,48934,244670,0.2,35176,COD,3
+ORD1615,12-01-2025,Customer_2,Kolkata,Furniture,Sofa,Sofa Set,4,40028,160112,0,17718,UPI,3
+ORD1616,08-01-2025,Customer_297,Mumbai,Clothing,Jeans,Blue Jeans,4,6198,24792,0.05,2276,UPI,2
+ORD1617,19-02-2025,Customer_177,Kolkata,Furniture,Chair,Office Chair,5,18834,94170,0.2,10100,Credit Card,3
+ORD1618,24-01-2025,Customer_100,Bangalore,Clothing,Jeans,Blue Jeans,3,32939,98817,0,5716,Credit Card,1
+ORD1619,01-01-2025,Customer_162,Kolkata,Furniture,Table,Dining Table,1,32082,32082,0.15,1801,UPI,5
+ORD1620,18-02-2025,Customer_41,Kolkata,Electronics,Laptop,Laptop Pro,5,25588,127940,0.1,8791,UPI,2
+ORD1621,19-02-2025,Customer_194,Chennai,Clothing,Shirt,Formal Shirt,4,16024,64096,0,3722,COD,2
+ORD1622,23-01-2025,Customer_58,Mumbai,Electronics,Mobile,Smartphone X,1,2681,2681,0.2,529,UPI,2
+ORD1623,14-02-2025,Customer_241,Chennai,Furniture,Table,Dining Table,4,31281,125124,0,11820,COD,1
+ORD1624,19-01-2025,Customer_271,Chennai,Electronics,Laptop,Laptop Pro,3,15762,47286,0.15,4164,COD,5
+ORD1625,08-01-2025,Customer_39,Bangalore,Clothing,Jeans,Blue Jeans,1,11819,11819,0.1,1557,Credit Card,5
+ORD1626,03-01-2025,Customer_57,Delhi,Clothing,Shirt,Casual Shirt,3,13001,39003,0.2,2776,COD,3
+ORD1627,06-02-2025,Customer_53,Mumbai,Furniture,Chair,Office Chair,1,40847,40847,0.2,2637,Credit Card,4
+ORD1628,08-02-2025,Customer_279,Kolkata,Furniture,Table,Dining Table,2,24685,49370,0.1,5246,UPI,5
+ORD1629,16-02-2025,Customer_274,Mumbai,Furniture,Sofa,Sofa Set,1,26440,26440,0.2,4472,COD,4
+ORD1630,01-03-2025,Customer_160,Bangalore,Furniture,Table,Dining Table,5,18984,94920,0.1,8800,COD,3
+ORD1631,23-01-2025,Customer_263,Bangalore,Furniture,Chair,Office Chair,3,12606,37818,0.1,4100,COD,5
+ORD1632,20-01-2025,Customer_40,Mumbai,Electronics,Laptop,Laptop Pro,5,22782,113910,0.05,21059,COD,5
+ORD1633,16-02-2025,Customer_196,Delhi,Electronics,Tablet,Tablet Z,5,21795,108975,0.2,8112,COD,5
+ORD1634,14-01-2025,Customer_52,Delhi,Clothing,Shirt,Formal Shirt,2,34404,68808,0.15,13604,Credit Card,5
+ORD1635,02-01-2025,Customer_17,Delhi,Clothing,Shirt,Casual Shirt,4,12889,51556,0,3813,Credit Card,4
+ORD1636,20-02-2025,Customer_112,Bangalore,Furniture,Table,Dining Table,1,23453,23453,0.1,2251,Credit Card,4
+ORD1637,14-02-2025,Customer_238,Bangalore,Electronics,Tablet,Tablet Z,2,37039,74078,0.2,12783,UPI,1
+ORD1638,11-02-2025,Customer_179,Kolkata,Furniture,Table,Dining Table,4,26443,105772,0.05,7847,UPI,2
+ORD1639,05-02-2025,Customer_149,Mumbai,Electronics,Laptop,Laptop Pro,4,36665,146660,0.05,11520,Credit Card,3
+ORD1640,03-01-2025,Customer_236,Kolkata,Electronics,Tablet,Tablet Z,3,42118,126354,0.2,25133,COD,1
+ORD1641,15-01-2025,Customer_286,Delhi,Furniture,Chair,Office Chair,1,45532,45532,0.05,4766,Credit Card,3
+ORD1642,26-01-2025,Customer_272,Delhi,Furniture,Table,Dining Table,5,18390,91950,0.15,15857,COD,4
+ORD1643,05-01-2025,Customer_221,Bangalore,Clothing,Shirt,Casual Shirt,3,42129,126387,0.15,21030,UPI,3
+ORD1644,05-02-2025,Customer_222,Chennai,Clothing,Shirt,Casual Shirt,4,8826,35304,0.1,6996,Credit Card,5
+ORD1645,19-02-2025,Customer_116,Bangalore,Electronics,Tablet,Tablet Z,4,1372,5488,0.05,997,Credit Card,4
+ORD1646,11-02-2025,Customer_213,Chennai,Furniture,Sofa,Sofa Set,3,40644,121932,0,8995,COD,1
+ORD1647,07-02-2025,Customer_127,Chennai,Electronics,Tablet,Tablet Z,2,46287,92574,0.05,16810,Credit Card,3
+ORD1648,01-03-2025,Customer_144,Delhi,Clothing,Jeans,Blue Jeans,1,31212,31212,0.2,4857,COD,2
+ORD1649,23-01-2025,Customer_179,Mumbai,Clothing,Jeans,Blue Jeans,3,34195,102585,0.15,14611,UPI,2
+ORD1650,27-01-2025,Customer_237,Mumbai,Furniture,Chair,Office Chair,5,45407,227035,0.05,12413,UPI,4
+ORD1651,27-02-2025,Customer_135,Chennai,Furniture,Sofa,Sofa Set,1,24811,24811,0,4191,UPI,3
+ORD1652,07-01-2025,Customer_105,Kolkata,Furniture,Table,Dining Table,2,32667,65334,0,3711,COD,4
+ORD1653,03-02-2025,Customer_65,Chennai,Clothing,Jeans,Blue Jeans,5,35778,178890,0.2,30454,UPI,3
+ORD1654,02-01-2025,Customer_38,Chennai,Clothing,Shirt,Formal Shirt,1,28988,28988,0.2,5332,COD,4
+ORD1655,27-01-2025,Customer_51,Chennai,Furniture,Chair,Office Chair,2,20819,41638,0.05,5951,COD,5
+ORD1656,09-01-2025,Customer_232,Delhi,Clothing,Shirt,Formal Shirt,3,35461,106383,0.05,15872,UPI,3
+ORD1657,06-02-2025,Customer_259,Chennai,Furniture,Chair,Office Chair,5,40067,200335,0.05,37836,COD,3
+ORD1658,03-02-2025,Customer_231,Mumbai,Electronics,Mobile,Smartphone X,2,25593,51186,0.05,3095,Credit Card,4
+ORD1659,25-02-2025,Customer_216,Kolkata,Electronics,Mobile,Smartphone X,5,4006,20030,0,2051,Credit Card,2
+ORD1660,20-01-2025,Customer_82,Chennai,Electronics,Laptop,Laptop Pro,5,10206,51030,0.05,5191,COD,2
+ORD1661,15-01-2025,Customer_286,Chennai,Clothing,Shirt,Formal Shirt,1,10718,10718,0.15,849,Credit Card,1
+ORD1662,08-02-2025,Customer_234,Kolkata,Clothing,Shirt,Formal Shirt,2,35300,70600,0,11893,COD,1
+ORD1663,01-01-2025,Customer_198,Chennai,Clothing,Shirt,Casual Shirt,1,25712,25712,0.1,3222,Credit Card,1
+ORD1664,23-02-2025,Customer_167,Bangalore,Clothing,Jeans,Blue Jeans,1,13732,13732,0.05,1352,Credit Card,1
+ORD1665,18-02-2025,Customer_296,Bangalore,Electronics,Tablet,Tablet Z,1,47303,47303,0,3657,COD,4
+ORD1666,02-02-2025,Customer_108,Mumbai,Electronics,Mobile,Smartphone X,1,1093,1093,0.15,172,UPI,2
+ORD1667,31-01-2025,Customer_28,Bangalore,Furniture,Table,Dining Table,3,27268,81804,0.05,12856,UPI,4
+ORD1668,14-02-2025,Customer_273,Delhi,Electronics,Tablet,Tablet Z,2,37537,75074,0.15,10338,COD,2
+ORD1669,08-02-2025,Customer_49,Bangalore,Electronics,Mobile,Smartphone X,5,1672,8360,0.05,1008,COD,4
+ORD1670,26-02-2025,Customer_54,Mumbai,Electronics,Laptop,Laptop Pro,3,6613,19839,0,2008,Credit Card,5
+ORD1671,13-01-2025,Customer_108,Kolkata,Furniture,Chair,Office Chair,1,5636,5636,0.2,362,Credit Card,2
+ORD1672,10-01-2025,Customer_134,Delhi,Electronics,Laptop,Laptop Pro,5,25954,129770,0.1,14677,UPI,3
+ORD1673,23-01-2025,Customer_59,Chennai,Clothing,Jeans,Blue Jeans,4,5185,20740,0.1,3148,Credit Card,1
+ORD1674,07-01-2025,Customer_61,Bangalore,Clothing,Shirt,Casual Shirt,2,37906,75812,0.2,4412,Credit Card,4
+ORD1675,09-02-2025,Customer_55,Kolkata,Electronics,Mobile,Smartphone X,5,28864,144320,0.2,14264,COD,2
+ORD1676,16-02-2025,Customer_27,Mumbai,Clothing,Jeans,Blue Jeans,3,15675,47025,0.2,8343,COD,4
+ORD1677,09-02-2025,Customer_35,Kolkata,Clothing,Shirt,Casual Shirt,3,41730,125190,0.2,15117,Credit Card,2
+ORD1678,03-01-2025,Customer_179,Delhi,Furniture,Sofa,Sofa Set,4,12818,51272,0.2,9963,UPI,3
+ORD1679,12-02-2025,Customer_202,Chennai,Furniture,Chair,Office Chair,3,30973,92919,0.1,5391,COD,3
+ORD1680,12-01-2025,Customer_59,Kolkata,Furniture,Sofa,Sofa Set,5,43505,217525,0.2,11626,Credit Card,2
+ORD1681,29-01-2025,Customer_108,Delhi,Furniture,Chair,Office Chair,4,28933,115732,0.15,16388,Credit Card,2
+ORD1682,01-03-2025,Customer_252,Bangalore,Furniture,Table,Dining Table,5,40646,203230,0.05,14816,UPI,5
+ORD1683,11-02-2025,Customer_27,Chennai,Electronics,Mobile,Smartphone X,5,16760,83800,0.15,7560,COD,2
+ORD1684,01-02-2025,Customer_274,Bangalore,Clothing,Jeans,Blue Jeans,4,45778,183112,0.2,17166,COD,5
+ORD1685,18-02-2025,Customer_135,Bangalore,Clothing,Shirt,Casual Shirt,4,12419,49676,0.15,7811,COD,3
+ORD1686,13-01-2025,Customer_14,Kolkata,Electronics,Tablet,Tablet Z,4,37941,151764,0.05,10060,UPI,2
+ORD1687,20-02-2025,Customer_112,Kolkata,Furniture,Table,Dining Table,2,31483,62966,0.1,11511,COD,3
+ORD1688,06-02-2025,Customer_152,Kolkata,Clothing,Jeans,Blue Jeans,5,8696,43480,0.15,3415,UPI,1
+ORD1689,10-01-2025,Customer_171,Bangalore,Electronics,Tablet,Tablet Z,5,14792,73960,0.2,11645,COD,5
+ORD1690,06-02-2025,Customer_34,Bangalore,Furniture,Sofa,Sofa Set,4,43032,172128,0.15,29088,UPI,5
+ORD1691,07-01-2025,Customer_260,Kolkata,Clothing,Jeans,Blue Jeans,2,14945,29890,0.1,4996,Credit Card,4
+ORD1692,03-01-2025,Customer_247,Bangalore,Electronics,Tablet,Tablet Z,5,28069,140345,0.2,7995,COD,4
+ORD1693,21-02-2025,Customer_165,Delhi,Clothing,Shirt,Formal Shirt,4,43721,174884,0.15,32328,Credit Card,4
+ORD1694,01-01-2025,Customer_215,Chennai,Clothing,Shirt,Casual Shirt,5,4253,21265,0.1,1120,UPI,2
+ORD1695,02-01-2025,Customer_291,Mumbai,Furniture,Chair,Office Chair,4,2702,10808,0.1,1294,UPI,4
+ORD1696,05-02-2025,Customer_39,Delhi,Electronics,Tablet,Tablet Z,3,1098,3294,0,275,COD,5
+ORD1697,24-02-2025,Customer_260,Chennai,Clothing,Shirt,Casual Shirt,4,34925,139700,0,17245,Credit Card,4
+ORD1698,14-01-2025,Customer_40,Kolkata,Clothing,Shirt,Casual Shirt,5,4526,22630,0.1,4049,UPI,3
+ORD1699,02-02-2025,Customer_237,Kolkata,Clothing,Shirt,Casual Shirt,2,30747,61494,0.1,10904,Credit Card,3
+ORD1700,24-01-2025,Customer_8,Mumbai,Electronics,Laptop,Laptop Pro,2,40500,81000,0.15,15814,Credit Card,1
+ORD1701,03-01-2025,Customer_109,Delhi,Electronics,Tablet,Tablet Z,5,41838,209190,0.05,30687,UPI,5
+ORD1702,16-02-2025,Customer_170,Chennai,Furniture,Chair,Office Chair,2,11067,22134,0.2,1164,COD,5
+ORD1703,16-01-2025,Customer_123,Kolkata,Clothing,Shirt,Casual Shirt,3,9873,29619,0.05,2140,UPI,2
+ORD1704,25-02-2025,Customer_189,Mumbai,Electronics,Mobile,Smartphone X,5,48308,241540,0,39235,UPI,3
+ORD1705,16-02-2025,Customer_257,Bangalore,Furniture,Table,Dining Table,5,44082,220410,0.15,34313,COD,1
+ORD1706,02-02-2025,Customer_70,Delhi,Clothing,Shirt,Casual Shirt,3,42453,127359,0.1,24382,UPI,4
+ORD1707,08-02-2025,Customer_111,Chennai,Electronics,Tablet,Tablet Z,4,41832,167328,0.05,28000,COD,1
+ORD1708,08-02-2025,Customer_189,Delhi,Electronics,Tablet,Tablet Z,3,2730,8190,0,1296,COD,2
+ORD1709,31-01-2025,Customer_213,Kolkata,Electronics,Mobile,Smartphone X,1,25770,25770,0,4042,Credit Card,3
+ORD1710,26-01-2025,Customer_65,Mumbai,Furniture,Table,Dining Table,3,2194,6582,0.15,943,COD,4
+ORD1711,06-02-2025,Customer_39,Kolkata,Furniture,Chair,Office Chair,1,4601,4601,0.05,432,Credit Card,3
+ORD1712,03-01-2025,Customer_148,Chennai,Furniture,Table,Dining Table,4,43549,174196,0.05,12595,COD,4
+ORD1713,05-01-2025,Customer_30,Kolkata,Clothing,Shirt,Casual Shirt,3,9231,27693,0,5373,Credit Card,3
+ORD1714,06-01-2025,Customer_193,Mumbai,Electronics,Tablet,Tablet Z,4,43498,173992,0.15,32631,COD,1
+ORD1715,02-02-2025,Customer_199,Delhi,Electronics,Mobile,Smartphone X,5,29920,149600,0,12988,UPI,2
+ORD1716,29-01-2025,Customer_105,Delhi,Electronics,Tablet,Tablet Z,5,32659,163295,0.05,8395,Credit Card,1
+ORD1717,03-02-2025,Customer_264,Chennai,Furniture,Sofa,Sofa Set,5,36979,184895,0.2,20031,COD,3
+ORD1718,16-02-2025,Customer_136,Mumbai,Clothing,Jeans,Blue Jeans,5,11061,55305,0.1,9454,Credit Card,1
+ORD1719,01-03-2025,Customer_114,Kolkata,Furniture,Table,Dining Table,2,19194,38388,0,2913,Credit Card,4
+ORD1720,13-02-2025,Customer_98,Bangalore,Clothing,Shirt,Casual Shirt,2,46747,93494,0.05,16135,COD,4
+ORD1721,23-02-2025,Customer_226,Bangalore,Electronics,Laptop,Laptop Pro,1,35186,35186,0.15,6290,COD,4
+ORD1722,10-01-2025,Customer_215,Kolkata,Clothing,Shirt,Casual Shirt,3,9646,28938,0.2,4501,COD,4
+ORD1723,07-02-2025,Customer_182,Delhi,Electronics,Laptop,Laptop Pro,3,18009,54027,0.05,4462,COD,3
+ORD1724,08-01-2025,Customer_195,Mumbai,Furniture,Table,Dining Table,5,16965,84825,0.05,10525,UPI,5
+ORD1725,13-02-2025,Customer_153,Chennai,Electronics,Mobile,Smartphone X,4,34217,136868,0.05,25079,UPI,3
+ORD1726,21-01-2025,Customer_14,Chennai,Clothing,Shirt,Casual Shirt,3,22117,66351,0.1,3918,COD,4
+ORD1727,26-02-2025,Customer_41,Chennai,Electronics,Mobile,Smartphone X,5,26742,133710,0.2,20682,UPI,5
+ORD1728,09-02-2025,Customer_77,Chennai,Clothing,Shirt,Formal Shirt,1,26372,26372,0.2,1529,Credit Card,1
+ORD1729,05-01-2025,Customer_169,Delhi,Clothing,Jeans,Blue Jeans,1,36709,36709,0.1,2745,Credit Card,1
+ORD1730,05-02-2025,Customer_133,Chennai,Clothing,Jeans,Blue Jeans,3,22341,67023,0.2,13271,UPI,3
+ORD1731,28-02-2025,Customer_189,Mumbai,Clothing,Jeans,Blue Jeans,4,9838,39352,0,2908,Credit Card,5
+ORD1732,18-02-2025,Customer_97,Mumbai,Electronics,Mobile,Smartphone X,3,3166,9498,0.15,1721,UPI,3
+ORD1733,15-02-2025,Customer_237,Bangalore,Furniture,Sofa,Sofa Set,5,13079,65395,0,7093,COD,4
+ORD1734,01-03-2025,Customer_202,Bangalore,Furniture,Chair,Office Chair,4,14997,59988,0.2,9270,Credit Card,3
+ORD1735,10-02-2025,Customer_120,Bangalore,Furniture,Sofa,Sofa Set,2,10725,21450,0.15,1371,UPI,5
+ORD1736,22-02-2025,Customer_114,Kolkata,Electronics,Laptop,Laptop Pro,5,11107,55535,0.15,7124,COD,2
+ORD1737,13-01-2025,Customer_211,Bangalore,Electronics,Laptop,Laptop Pro,5,28521,142605,0.2,14035,Credit Card,4
+ORD1738,07-02-2025,Customer_175,Bangalore,Furniture,Sofa,Sofa Set,1,4545,4545,0,551,COD,1
+ORD1739,17-02-2025,Customer_247,Chennai,Clothing,Shirt,Formal Shirt,5,17068,85340,0.1,8751,UPI,2
+ORD1740,15-01-2025,Customer_64,Chennai,Clothing,Shirt,Formal Shirt,4,29769,119076,0,8446,COD,3
+ORD1741,24-02-2025,Customer_39,Delhi,Furniture,Chair,Office Chair,4,46153,184612,0,28911,UPI,2
+ORD1742,09-01-2025,Customer_186,Chennai,Electronics,Laptop,Laptop Pro,3,22444,67332,0.05,12305,COD,4
+ORD1743,05-01-2025,Customer_193,Bangalore,Electronics,Laptop,Laptop Pro,5,10904,54520,0,7858,Credit Card,2
+ORD1744,03-02-2025,Customer_35,Delhi,Clothing,Shirt,Casual Shirt,5,15523,77615,0,4263,COD,4
+ORD1745,23-02-2025,Customer_191,Kolkata,Clothing,Shirt,Formal Shirt,4,43263,173052,0.1,9480,UPI,2
+ORD1746,27-01-2025,Customer_258,Delhi,Furniture,Sofa,Sofa Set,1,10043,10043,0.05,947,UPI,2
+ORD1747,15-01-2025,Customer_289,Chennai,Furniture,Table,Dining Table,1,4651,4651,0.05,516,COD,5
+ORD1748,26-02-2025,Customer_219,Delhi,Electronics,Mobile,Smartphone X,2,7895,15790,0.05,1177,COD,2
+ORD1749,23-01-2025,Customer_37,Delhi,Clothing,Shirt,Formal Shirt,2,19546,39092,0.05,4243,COD,2
+ORD1750,13-02-2025,Customer_132,Delhi,Clothing,Shirt,Formal Shirt,4,5292,21168,0.15,3994,UPI,5
+ORD1751,26-02-2025,Customer_226,Mumbai,Clothing,Shirt,Casual Shirt,1,44897,44897,0.2,8537,COD,4
+ORD1752,26-01-2025,Customer_35,Chennai,Electronics,Laptop,Laptop Pro,5,16869,84345,0.15,9452,UPI,5
+ORD1753,25-01-2025,Customer_239,Bangalore,Furniture,Chair,Office Chair,4,27299,109196,0,11291,COD,4
+ORD1754,15-01-2025,Customer_286,Kolkata,Furniture,Table,Dining Table,5,43775,218875,0.05,12292,Credit Card,4
+ORD1755,21-02-2025,Customer_244,Delhi,Electronics,Mobile,Smartphone X,2,23787,47574,0.2,5248,UPI,3
+ORD1756,21-01-2025,Customer_294,Delhi,Furniture,Sofa,Sofa Set,4,32946,131784,0.15,13398,UPI,1
+ORD1757,23-02-2025,Customer_246,Mumbai,Electronics,Mobile,Smartphone X,2,24797,49594,0,6182,COD,2
+ORD1758,29-01-2025,Customer_99,Chennai,Clothing,Shirt,Casual Shirt,1,35647,35647,0.1,4444,COD,4
+ORD1759,07-01-2025,Customer_224,Kolkata,Clothing,Jeans,Blue Jeans,4,9300,37200,0,4396,UPI,3
+ORD1760,27-01-2025,Customer_115,Kolkata,Clothing,Shirt,Casual Shirt,3,43070,129210,0,21166,COD,4
+ORD1761,19-01-2025,Customer_7,Kolkata,Clothing,Jeans,Blue Jeans,5,12502,62510,0.15,12485,UPI,5
+ORD1762,08-01-2025,Customer_172,Kolkata,Electronics,Tablet,Tablet Z,1,39733,39733,0.1,3303,COD,4
+ORD1763,21-01-2025,Customer_170,Chennai,Clothing,Shirt,Casual Shirt,4,13369,53476,0,9208,Credit Card,1
+ORD1764,14-01-2025,Customer_261,Bangalore,Clothing,Jeans,Blue Jeans,5,28397,141985,0.05,23175,COD,4
+ORD1765,26-02-2025,Customer_130,Mumbai,Furniture,Table,Dining Table,1,14664,14664,0.2,1276,Credit Card,4
+ORD1766,08-02-2025,Customer_170,Chennai,Electronics,Laptop,Laptop Pro,2,2239,4478,0,685,COD,2
+ORD1767,31-01-2025,Customer_8,Mumbai,Furniture,Table,Dining Table,5,6229,31145,0.2,2634,UPI,2
+ORD1768,12-02-2025,Customer_272,Delhi,Clothing,Jeans,Blue Jeans,2,30012,60024,0.2,10323,UPI,2
+ORD1769,03-02-2025,Customer_80,Mumbai,Electronics,Mobile,Smartphone X,1,13745,13745,0.05,1286,COD,1
+ORD1770,19-02-2025,Customer_207,Mumbai,Clothing,Jeans,Blue Jeans,1,34040,34040,0.05,6108,UPI,1
+ORD1771,14-01-2025,Customer_65,Chennai,Electronics,Laptop,Laptop Pro,5,31943,159715,0,15870,UPI,2
+ORD1772,26-01-2025,Customer_294,Kolkata,Furniture,Table,Dining Table,2,14070,28140,0.15,4830,UPI,4
+ORD1773,24-01-2025,Customer_269,Delhi,Clothing,Shirt,Casual Shirt,3,24575,73725,0.15,9701,UPI,5
+ORD1774,22-01-2025,Customer_107,Bangalore,Electronics,Mobile,Smartphone X,4,21042,84168,0,9702,COD,5
+ORD1775,28-01-2025,Customer_195,Delhi,Furniture,Sofa,Sofa Set,2,41819,83638,0.05,13942,UPI,2
+ORD1776,22-02-2025,Customer_50,Delhi,Electronics,Mobile,Smartphone X,5,35137,175685,0.1,29016,UPI,5
+ORD1777,01-02-2025,Customer_15,Bangalore,Furniture,Table,Dining Table,5,10413,52065,0.15,5691,UPI,1
+ORD1778,02-01-2025,Customer_94,Mumbai,Clothing,Shirt,Casual Shirt,4,32977,131908,0.1,18321,UPI,4
+ORD1779,04-01-2025,Customer_230,Bangalore,Furniture,Sofa,Sofa Set,2,26570,53140,0.2,7420,COD,3
+ORD1780,18-01-2025,Customer_203,Bangalore,Clothing,Shirt,Formal Shirt,2,38323,76646,0.1,13491,COD,2
+ORD1781,01-01-2025,Customer_299,Kolkata,Electronics,Laptop,Laptop Pro,1,1722,1722,0,270,COD,4
+ORD1782,23-01-2025,Customer_169,Chennai,Clothing,Shirt,Casual Shirt,4,44671,178684,0.05,30856,Credit Card,5
+ORD1783,07-02-2025,Customer_30,Delhi,Furniture,Sofa,Sofa Set,4,3631,14524,0,2820,COD,4
+ORD1784,15-01-2025,Customer_91,Chennai,Electronics,Tablet,Tablet Z,4,4370,17480,0.15,2105,COD,2
+ORD1785,20-01-2025,Customer_68,Bangalore,Electronics,Tablet,Tablet Z,2,40465,80930,0.1,11791,UPI,3
+ORD1786,20-02-2025,Customer_170,Kolkata,Furniture,Table,Dining Table,3,8529,25587,0.2,4261,Credit Card,2
+ORD1787,02-03-2025,Customer_150,Mumbai,Electronics,Mobile,Smartphone X,5,38551,192755,0.15,19461,COD,5
+ORD1788,11-02-2025,Customer_295,Chennai,Clothing,Jeans,Blue Jeans,2,5501,11002,0.05,1419,Credit Card,4
+ORD1789,03-02-2025,Customer_93,Kolkata,Clothing,Shirt,Formal Shirt,5,1425,7125,0.2,795,COD,3
+ORD1790,21-01-2025,Customer_60,Bangalore,Furniture,Table,Dining Table,4,41310,165240,0,12523,Credit Card,3
+ORD1791,05-02-2025,Customer_43,Chennai,Clothing,Shirt,Formal Shirt,5,24597,122985,0.2,11674,COD,1
+ORD1792,06-02-2025,Customer_98,Delhi,Electronics,Tablet,Tablet Z,2,47794,95588,0.05,5056,UPI,1
+ORD1793,01-02-2025,Customer_90,Kolkata,Furniture,Table,Dining Table,1,21096,21096,0.2,2081,COD,5
+ORD1794,09-01-2025,Customer_235,Bangalore,Furniture,Table,Dining Table,1,29885,29885,0.1,1790,COD,5
+ORD1795,09-01-2025,Customer_131,Kolkata,Furniture,Chair,Office Chair,5,8804,44020,0.05,3211,COD,1
+ORD1796,15-01-2025,Customer_80,Kolkata,Electronics,Tablet,Tablet Z,3,20306,60918,0.15,9392,UPI,5
+ORD1797,25-01-2025,Customer_215,Delhi,Electronics,Laptop,Laptop Pro,2,39092,78184,0.15,8139,Credit Card,4
+ORD1798,11-02-2025,Customer_222,Delhi,Electronics,Tablet,Tablet Z,1,41912,41912,0,6395,UPI,5
+ORD1799,14-01-2025,Customer_62,Chennai,Electronics,Tablet,Tablet Z,1,8536,8536,0.2,890,UPI,3
+ORD1800,11-01-2025,Customer_127,Delhi,Electronics,Mobile,Smartphone X,3,24000,72000,0,11491,UPI,3
+ORD1801,22-01-2025,Customer_103,Delhi,Clothing,Shirt,Formal Shirt,4,33775,135100,0.15,6924,Credit Card,2
+ORD1802,08-01-2025,Customer_29,Kolkata,Clothing,Shirt,Formal Shirt,4,46913,187652,0.05,21788,Credit Card,3
+ORD1803,23-01-2025,Customer_232,Chennai,Clothing,Shirt,Casual Shirt,3,36063,108189,0.15,18517,Credit Card,1
+ORD1804,26-02-2025,Customer_43,Kolkata,Electronics,Mobile,Smartphone X,1,31469,31469,0.2,3487,COD,2
+ORD1805,29-01-2025,Customer_181,Bangalore,Electronics,Mobile,Smartphone X,2,45363,90726,0.05,15622,UPI,5
+ORD1806,10-02-2025,Customer_277,Chennai,Furniture,Chair,Office Chair,1,45640,45640,0.2,6815,COD,2
+ORD1807,30-01-2025,Customer_106,Bangalore,Clothing,Shirt,Formal Shirt,1,15805,15805,0.05,2408,Credit Card,2
+ORD1808,07-01-2025,Customer_11,Bangalore,Electronics,Laptop,Laptop Pro,2,45592,91184,0.1,12224,UPI,4
+ORD1809,01-03-2025,Customer_104,Delhi,Electronics,Mobile,Smartphone X,4,13829,55316,0.15,7668,Credit Card,3
+ORD1810,11-01-2025,Customer_113,Bangalore,Clothing,Shirt,Formal Shirt,5,20741,103705,0.15,15133,Credit Card,1
+ORD1811,26-02-2025,Customer_79,Bangalore,Furniture,Chair,Office Chair,1,36873,36873,0.2,2542,COD,4
+ORD1812,01-03-2025,Customer_177,Delhi,Furniture,Sofa,Sofa Set,1,24723,24723,0.05,3930,COD,2
+ORD1813,12-01-2025,Customer_246,Mumbai,Furniture,Sofa,Sofa Set,1,7955,7955,0.15,791,Credit Card,3
+ORD1814,15-01-2025,Customer_85,Mumbai,Furniture,Table,Dining Table,1,40556,40556,0,2845,COD,2
+ORD1815,29-01-2025,Customer_103,Bangalore,Furniture,Chair,Office Chair,1,35299,35299,0.05,4663,UPI,2
+ORD1816,28-02-2025,Customer_58,Delhi,Furniture,Table,Dining Table,5,3496,17480,0.1,1755,COD,4
+ORD1817,02-02-2025,Customer_247,Bangalore,Clothing,Shirt,Casual Shirt,3,45641,136923,0.05,7758,Credit Card,3
+ORD1818,18-01-2025,Customer_84,Mumbai,Furniture,Table,Dining Table,4,3282,13128,0.05,2514,Credit Card,4
+ORD1819,02-02-2025,Customer_167,Mumbai,Electronics,Mobile,Smartphone X,2,43047,86094,0.05,15681,COD,5
+ORD1820,25-01-2025,Customer_163,Kolkata,Clothing,Shirt,Formal Shirt,3,29116,87348,0.15,10260,Credit Card,5
+ORD1821,22-02-2025,Customer_275,Bangalore,Furniture,Sofa,Sofa Set,5,6164,30820,0.1,5561,Credit Card,2
+ORD1822,13-01-2025,Customer_227,Kolkata,Electronics,Tablet,Tablet Z,2,30817,61634,0,3754,UPI,3
+ORD1823,20-02-2025,Customer_10,Mumbai,Electronics,Laptop,Laptop Pro,3,17661,52983,0.2,9933,Credit Card,5
+ORD1824,05-02-2025,Customer_210,Mumbai,Furniture,Sofa,Sofa Set,4,8450,33800,0.15,1957,Credit Card,1
+ORD1825,28-01-2025,Customer_169,Delhi,Electronics,Mobile,Smartphone X,2,38100,76200,0.2,6379,Credit Card,2
+ORD1826,19-02-2025,Customer_167,Kolkata,Furniture,Table,Dining Table,5,35389,176945,0.05,15995,COD,3
+ORD1827,19-02-2025,Customer_167,Chennai,Electronics,Laptop,Laptop Pro,1,7950,7950,0.2,1016,COD,2
+ORD1828,07-02-2025,Customer_85,Mumbai,Clothing,Shirt,Formal Shirt,2,33925,67850,0.05,3934,UPI,2
+ORD1829,08-02-2025,Customer_294,Bangalore,Clothing,Jeans,Blue Jeans,4,6970,27880,0.15,4911,Credit Card,2
+ORD1830,19-02-2025,Customer_58,Mumbai,Electronics,Tablet,Tablet Z,3,26857,80571,0.15,10705,UPI,4
+ORD1831,22-02-2025,Customer_69,Chennai,Clothing,Jeans,Blue Jeans,3,38230,114690,0,11944,COD,1
+ORD1832,27-02-2025,Customer_296,Mumbai,Clothing,Jeans,Blue Jeans,1,41417,41417,0.05,4288,Credit Card,3
+ORD1833,23-01-2025,Customer_155,Delhi,Electronics,Tablet,Tablet Z,4,5854,23416,0.1,1671,COD,4
+ORD1834,01-03-2025,Customer_191,Delhi,Furniture,Table,Dining Table,2,37847,75694,0.15,11797,COD,4
+ORD1835,02-02-2025,Customer_135,Bangalore,Furniture,Chair,Office Chair,5,47932,239660,0.15,30916,Credit Card,2
+ORD1836,24-01-2025,Customer_240,Mumbai,Clothing,Jeans,Blue Jeans,2,28638,57276,0.15,2891,Credit Card,1
+ORD1837,20-01-2025,Customer_13,Delhi,Clothing,Jeans,Blue Jeans,5,19182,95910,0,9397,Credit Card,5
+ORD1838,28-01-2025,Customer_222,Kolkata,Electronics,Laptop,Laptop Pro,4,1173,4692,0.15,445,COD,1
+ORD1839,27-02-2025,Customer_225,Chennai,Clothing,Shirt,Casual Shirt,3,31478,94434,0.05,8031,Credit Card,4
+ORD1840,07-02-2025,Customer_26,Bangalore,Clothing,Jeans,Blue Jeans,2,44341,88682,0.05,9375,Credit Card,5
+ORD1841,08-01-2025,Customer_290,Delhi,Electronics,Mobile,Smartphone X,1,10571,10571,0.05,924,COD,2
+ORD1842,07-02-2025,Customer_132,Kolkata,Clothing,Jeans,Blue Jeans,4,23366,93464,0.15,15375,COD,1
+ORD1843,25-01-2025,Customer_294,Kolkata,Furniture,Sofa,Sofa Set,1,19130,19130,0.15,3729,Credit Card,5
+ORD1844,14-02-2025,Customer_288,Mumbai,Clothing,Jeans,Blue Jeans,1,1355,1355,0.1,94,Credit Card,3
+ORD1845,20-02-2025,Customer_127,Chennai,Furniture,Sofa,Sofa Set,1,38579,38579,0.2,6247,UPI,2
+ORD1846,05-01-2025,Customer_228,Kolkata,Electronics,Laptop,Laptop Pro,2,43391,86782,0.1,9275,COD,3
+ORD1847,26-02-2025,Customer_162,Chennai,Furniture,Sofa,Sofa Set,3,24338,73014,0.2,4572,COD,2
+ORD1848,26-02-2025,Customer_149,Bangalore,Electronics,Mobile,Smartphone X,4,38040,152160,0.2,20127,COD,4
+ORD1849,24-01-2025,Customer_133,Delhi,Electronics,Tablet,Tablet Z,2,3395,6790,0.05,738,Credit Card,5
+ORD1850,04-02-2025,Customer_199,Mumbai,Clothing,Shirt,Formal Shirt,1,8500,8500,0.2,974,Credit Card,2
+ORD1851,01-01-2025,Customer_57,Chennai,Clothing,Shirt,Formal Shirt,3,28502,85506,0,15081,UPI,3
+ORD1852,28-02-2025,Customer_173,Mumbai,Clothing,Shirt,Formal Shirt,2,6248,12496,0.15,1436,COD,1
+ORD1853,21-02-2025,Customer_2,Delhi,Furniture,Sofa,Sofa Set,5,45815,229075,0.1,27887,Credit Card,4
+ORD1854,12-01-2025,Customer_231,Kolkata,Clothing,Shirt,Formal Shirt,4,38301,153204,0.2,28031,Credit Card,4
+ORD1855,12-01-2025,Customer_255,Mumbai,Electronics,Laptop,Laptop Pro,2,1489,2978,0,180,Credit Card,1
+ORD1856,17-01-2025,Customer_242,Chennai,Furniture,Chair,Office Chair,4,5277,21108,0,1644,COD,2
+ORD1857,02-01-2025,Customer_57,Chennai,Clothing,Shirt,Formal Shirt,1,16820,16820,0.1,1346,Credit Card,5
+ORD1858,13-02-2025,Customer_178,Bangalore,Electronics,Tablet,Tablet Z,1,17595,17595,0.05,2202,Credit Card,1
+ORD1859,01-01-2025,Customer_190,Delhi,Electronics,Tablet,Tablet Z,4,47136,188544,0.1,21815,COD,2
+ORD1860,26-01-2025,Customer_300,Mumbai,Furniture,Table,Dining Table,5,23658,118290,0.1,20161,Credit Card,1
+ORD1861,04-01-2025,Customer_149,Delhi,Furniture,Table,Dining Table,3,3403,10209,0,931,Credit Card,1
+ORD1862,27-02-2025,Customer_33,Mumbai,Electronics,Tablet,Tablet Z,3,3657,10971,0.05,1312,UPI,4
+ORD1863,02-02-2025,Customer_9,Delhi,Electronics,Laptop,Laptop Pro,1,40593,40593,0.1,7751,UPI,4
+ORD1864,01-02-2025,Customer_256,Bangalore,Electronics,Laptop,Laptop Pro,2,11651,23302,0,3171,COD,1
+ORD1865,08-01-2025,Customer_212,Kolkata,Clothing,Shirt,Casual Shirt,4,16930,67720,0,9225,UPI,3
+ORD1866,17-01-2025,Customer_46,Mumbai,Electronics,Mobile,Smartphone X,4,21358,85432,0.05,5711,UPI,5
+ORD1867,09-02-2025,Customer_111,Bangalore,Clothing,Shirt,Casual Shirt,3,37811,113433,0.15,15588,COD,4
+ORD1868,11-01-2025,Customer_118,Chennai,Furniture,Table,Dining Table,5,32702,163510,0.2,20667,COD,5
+ORD1869,26-02-2025,Customer_141,Kolkata,Clothing,Shirt,Formal Shirt,2,3828,7656,0.1,1100,COD,1
+ORD1870,29-01-2025,Customer_182,Chennai,Furniture,Chair,Office Chair,5,20555,102775,0,8548,Credit Card,3
+ORD1871,16-02-2025,Customer_119,Chennai,Furniture,Sofa,Sofa Set,5,49964,249820,0.2,46004,COD,3
+ORD1872,12-01-2025,Customer_208,Chennai,Electronics,Laptop,Laptop Pro,5,7879,39395,0.2,6514,Credit Card,2
+ORD1873,21-01-2025,Customer_271,Bangalore,Furniture,Chair,Office Chair,1,28729,28729,0.1,1982,Credit Card,4
+ORD1874,13-02-2025,Customer_11,Bangalore,Electronics,Tablet,Tablet Z,2,7876,15752,0.15,2015,COD,1
+ORD1875,24-01-2025,Customer_44,Kolkata,Electronics,Tablet,Tablet Z,1,1004,1004,0.15,147,Credit Card,4
+ORD1876,22-02-2025,Customer_180,Bangalore,Electronics,Laptop,Laptop Pro,2,30831,61662,0.2,10564,UPI,1
+ORD1877,09-02-2025,Customer_182,Bangalore,Electronics,Tablet,Tablet Z,3,35491,106473,0,9848,Credit Card,4
+ORD1878,18-01-2025,Customer_152,Delhi,Furniture,Sofa,Sofa Set,3,33725,101175,0.15,15721,COD,2
+ORD1879,18-01-2025,Customer_10,Bangalore,Clothing,Shirt,Formal Shirt,2,30308,60616,0.05,4242,COD,3
+ORD1880,31-01-2025,Customer_100,Kolkata,Furniture,Chair,Office Chair,3,34437,103311,0,7555,Credit Card,3
+ORD1881,05-02-2025,Customer_264,Mumbai,Furniture,Chair,Office Chair,3,9285,27855,0.2,4695,Credit Card,2
+ORD1882,10-02-2025,Customer_210,Bangalore,Electronics,Mobile,Smartphone X,4,11340,45360,0.2,2908,UPI,3
+ORD1883,04-02-2025,Customer_40,Chennai,Furniture,Table,Dining Table,2,6870,13740,0.15,993,COD,5
+ORD1884,31-01-2025,Customer_38,Mumbai,Furniture,Sofa,Sofa Set,3,1128,3384,0.2,500,UPI,5
+ORD1885,02-03-2025,Customer_156,Kolkata,Electronics,Tablet,Tablet Z,3,14437,43311,0,7109,COD,1
+ORD1886,12-01-2025,Customer_235,Kolkata,Clothing,Shirt,Casual Shirt,3,23724,71172,0.15,12718,Credit Card,4
+ORD1887,16-01-2025,Customer_124,Bangalore,Furniture,Chair,Office Chair,2,35114,70228,0.1,12203,UPI,3
+ORD1888,13-01-2025,Customer_178,Kolkata,Furniture,Chair,Office Chair,3,44730,134190,0,19330,UPI,3
+ORD1889,16-02-2025,Customer_137,Mumbai,Clothing,Shirt,Formal Shirt,2,44289,88578,0,17324,Credit Card,1
+ORD1890,02-02-2025,Customer_226,Chennai,Clothing,Shirt,Casual Shirt,5,6857,34285,0.2,1894,Credit Card,4
+ORD1891,05-01-2025,Customer_223,Bangalore,Clothing,Shirt,Casual Shirt,5,23857,119285,0,17942,COD,4
+ORD1892,18-02-2025,Customer_204,Mumbai,Furniture,Table,Dining Table,3,38652,115956,0.05,10992,Credit Card,1
+ORD1893,09-01-2025,Customer_96,Mumbai,Furniture,Table,Dining Table,5,41291,206455,0.1,39369,Credit Card,3
+ORD1894,28-01-2025,Customer_63,Chennai,Electronics,Tablet,Tablet Z,1,40212,40212,0.1,7758,Credit Card,1
+ORD1895,18-02-2025,Customer_162,Delhi,Electronics,Tablet,Tablet Z,3,46435,139305,0.15,14108,COD,2
+ORD1896,10-02-2025,Customer_52,Mumbai,Furniture,Chair,Office Chair,4,13316,53264,0.15,5804,COD,2
+ORD1897,30-01-2025,Customer_179,Delhi,Clothing,Jeans,Blue Jeans,1,33377,33377,0.05,3130,COD,2
+ORD1898,15-02-2025,Customer_14,Kolkata,Clothing,Shirt,Casual Shirt,4,30785,123140,0,6168,COD,3
+ORD1899,31-01-2025,Customer_50,Delhi,Clothing,Jeans,Blue Jeans,5,21370,106850,0.2,9758,UPI,5
+ORD1900,30-01-2025,Customer_50,Kolkata,Electronics,Tablet,Tablet Z,4,31970,127880,0.15,17010,COD,3
+ORD1901,15-02-2025,Customer_148,Kolkata,Clothing,Shirt,Casual Shirt,1,36377,36377,0.15,2923,UPI,2
+ORD1902,30-01-2025,Customer_294,Bangalore,Furniture,Chair,Office Chair,5,15921,79605,0,13557,COD,2
+ORD1903,28-02-2025,Customer_167,Chennai,Clothing,Jeans,Blue Jeans,5,34751,173755,0.15,31972,Credit Card,4
+ORD1904,26-02-2025,Customer_30,Chennai,Electronics,Tablet,Tablet Z,5,48299,241495,0.1,46471,UPI,4
+ORD1905,11-02-2025,Customer_64,Chennai,Electronics,Laptop,Laptop Pro,5,6925,34625,0.2,4921,COD,2
+ORD1906,25-02-2025,Customer_297,Delhi,Electronics,Laptop,Laptop Pro,3,30129,90387,0.2,14372,UPI,2
+ORD1907,23-01-2025,Customer_60,Mumbai,Furniture,Table,Dining Table,3,47374,142122,0.1,25505,UPI,4
+ORD1908,16-01-2025,Customer_296,Chennai,Furniture,Chair,Office Chair,5,47356,236780,0.05,21191,UPI,2
+ORD1909,04-02-2025,Customer_147,Chennai,Furniture,Table,Dining Table,3,28074,84222,0,15705,UPI,1
+ORD1910,04-02-2025,Customer_195,Mumbai,Clothing,Jeans,Blue Jeans,3,48975,146925,0.2,15667,COD,3
+ORD1911,05-02-2025,Customer_141,Delhi,Clothing,Jeans,Blue Jeans,2,44677,89354,0.2,16983,COD,5
+ORD1912,14-01-2025,Customer_192,Delhi,Furniture,Table,Dining Table,2,11858,23716,0.1,3439,COD,4
+ORD1913,14-01-2025,Customer_265,Kolkata,Electronics,Laptop,Laptop Pro,5,5399,26995,0.1,4645,Credit Card,4
+ORD1914,03-01-2025,Customer_98,Kolkata,Electronics,Tablet,Tablet Z,1,12092,12092,0.2,1686,COD,4
+ORD1915,26-01-2025,Customer_226,Bangalore,Clothing,Jeans,Blue Jeans,5,11361,56805,0.05,10009,Credit Card,2
+ORD1916,13-01-2025,Customer_139,Mumbai,Clothing,Shirt,Formal Shirt,2,16695,33390,0.15,6019,UPI,1
+ORD1917,19-01-2025,Customer_54,Kolkata,Furniture,Sofa,Sofa Set,1,24437,24437,0.15,4498,COD,2
+ORD1918,22-02-2025,Customer_209,Delhi,Electronics,Laptop,Laptop Pro,1,47128,47128,0.2,7546,Credit Card,4
+ORD1919,18-02-2025,Customer_40,Bangalore,Furniture,Sofa,Sofa Set,3,28541,85623,0.1,7379,Credit Card,2
+ORD1920,01-01-2025,Customer_184,Bangalore,Electronics,Mobile,Smartphone X,5,31289,156445,0.15,17190,Credit Card,2
+ORD1921,28-02-2025,Customer_170,Chennai,Furniture,Chair,Office Chair,5,28496,142480,0.05,14740,COD,4
+ORD1922,16-01-2025,Customer_251,Kolkata,Electronics,Mobile,Smartphone X,3,2266,6798,0.1,463,UPI,2
+ORD1923,25-02-2025,Customer_64,Delhi,Clothing,Shirt,Casual Shirt,3,47123,141369,0.05,25375,Credit Card,2
+ORD1924,20-02-2025,Customer_282,Mumbai,Furniture,Table,Dining Table,5,9688,48440,0.15,3427,COD,2
+ORD1925,27-01-2025,Customer_225,Bangalore,Furniture,Sofa,Sofa Set,5,11576,57880,0.15,4259,UPI,1
+ORD1926,21-01-2025,Customer_71,Mumbai,Electronics,Mobile,Smartphone X,2,20751,41502,0,4485,Credit Card,4
+ORD1927,28-01-2025,Customer_209,Delhi,Furniture,Sofa,Sofa Set,1,42121,42121,0,3988,UPI,3
+ORD1928,12-02-2025,Customer_279,Delhi,Electronics,Laptop,Laptop Pro,3,1378,4134,0,387,COD,5
+ORD1929,19-01-2025,Customer_76,Delhi,Electronics,Laptop,Laptop Pro,5,34329,171645,0.2,15411,COD,2
+ORD1930,12-02-2025,Customer_17,Mumbai,Electronics,Mobile,Smartphone X,2,30955,61910,0,10011,Credit Card,5
+ORD1931,15-01-2025,Customer_23,Delhi,Furniture,Table,Dining Table,3,33434,100302,0.05,5160,Credit Card,3
+ORD1932,11-01-2025,Customer_212,Bangalore,Clothing,Shirt,Casual Shirt,4,41995,167980,0,26210,COD,5
+ORD1933,25-02-2025,Customer_34,Bangalore,Furniture,Chair,Office Chair,1,31409,31409,0,2375,Credit Card,1
+ORD1934,18-02-2025,Customer_249,Kolkata,Clothing,Jeans,Blue Jeans,1,24325,24325,0.2,4742,COD,4
+ORD1935,10-02-2025,Customer_17,Bangalore,Clothing,Jeans,Blue Jeans,2,47352,94704,0.15,9668,UPI,5
+ORD1936,20-01-2025,Customer_22,Delhi,Electronics,Mobile,Smartphone X,1,39105,39105,0,4192,Credit Card,4
+ORD1937,16-02-2025,Customer_159,Kolkata,Electronics,Laptop,Laptop Pro,2,19637,39274,0.15,3733,COD,1
+ORD1938,25-01-2025,Customer_21,Delhi,Electronics,Laptop,Laptop Pro,2,48924,97848,0.2,12401,Credit Card,4
+ORD1939,03-01-2025,Customer_238,Mumbai,Electronics,Laptop,Laptop Pro,1,26994,26994,0,2828,COD,4
+ORD1940,12-02-2025,Customer_287,Mumbai,Furniture,Sofa,Sofa Set,5,46091,230455,0.2,25966,COD,5
+ORD1941,18-01-2025,Customer_277,Chennai,Electronics,Tablet,Tablet Z,1,11519,11519,0,904,Credit Card,4
+ORD1942,26-01-2025,Customer_40,Delhi,Furniture,Sofa,Sofa Set,2,21604,43208,0.15,4711,UPI,3
+ORD1943,03-02-2025,Customer_129,Bangalore,Furniture,Sofa,Sofa Set,2,47263,94526,0.05,8276,COD,1
+ORD1944,23-02-2025,Customer_39,Mumbai,Clothing,Jeans,Blue Jeans,5,36167,180835,0.15,11909,Credit Card,1
+ORD1945,09-01-2025,Customer_140,Mumbai,Furniture,Chair,Office Chair,5,19589,97945,0.2,16046,Credit Card,4
+ORD1946,07-01-2025,Customer_182,Bangalore,Clothing,Jeans,Blue Jeans,4,12629,50516,0.05,8794,COD,4
+ORD1947,24-01-2025,Customer_120,Delhi,Electronics,Tablet,Tablet Z,2,20714,41428,0.15,2162,UPI,5
+ORD1948,28-01-2025,Customer_115,Chennai,Electronics,Tablet,Tablet Z,2,41521,83042,0.15,12841,COD,2
+ORD1949,05-01-2025,Customer_247,Chennai,Clothing,Shirt,Casual Shirt,5,12166,60830,0,5108,COD,2
+ORD1950,13-02-2025,Customer_16,Bangalore,Electronics,Mobile,Smartphone X,2,33874,67748,0,13540,COD,1
+ORD1951,04-02-2025,Customer_125,Bangalore,Clothing,Jeans,Blue Jeans,5,46402,232010,0.1,13595,UPI,4
+ORD1952,29-01-2025,Customer_158,Delhi,Electronics,Laptop,Laptop Pro,5,31160,155800,0.2,10533,Credit Card,2
+ORD1953,05-02-2025,Customer_13,Chennai,Electronics,Mobile,Smartphone X,5,12894,64470,0.1,11215,UPI,5
+ORD1954,17-01-2025,Customer_261,Kolkata,Furniture,Sofa,Sofa Set,2,8266,16532,0,2543,Credit Card,3
+ORD1955,02-03-2025,Customer_162,Bangalore,Furniture,Chair,Office Chair,1,41261,41261,0.2,4010,Credit Card,2
+ORD1956,08-02-2025,Customer_54,Mumbai,Furniture,Chair,Office Chair,4,48357,193428,0.05,36724,UPI,5
+ORD1957,06-01-2025,Customer_296,Mumbai,Furniture,Table,Dining Table,5,9308,46540,0.05,2848,COD,1
+ORD1958,13-01-2025,Customer_92,Kolkata,Furniture,Chair,Office Chair,1,28935,28935,0.05,2231,COD,2
+ORD1959,28-02-2025,Customer_33,Chennai,Electronics,Mobile,Smartphone X,2,42198,84396,0.05,15559,COD,1
+ORD1960,17-02-2025,Customer_132,Delhi,Electronics,Laptop,Laptop Pro,3,44676,134028,0.05,16104,COD,5
+ORD1961,19-01-2025,Customer_168,Kolkata,Electronics,Mobile,Smartphone X,4,15207,60828,0,5506,Credit Card,2
+ORD1962,20-01-2025,Customer_171,Chennai,Furniture,Chair,Office Chair,4,35128,140512,0.2,11695,COD,1
+ORD1963,20-02-2025,Customer_104,Delhi,Furniture,Table,Dining Table,3,11541,34623,0.15,3472,COD,5
+ORD1964,04-02-2025,Customer_128,Chennai,Electronics,Mobile,Smartphone X,3,31129,93387,0.1,16149,Credit Card,1
+ORD1965,18-02-2025,Customer_262,Bangalore,Clothing,Shirt,Formal Shirt,5,17245,86225,0.2,5569,UPI,2
+ORD1966,20-02-2025,Customer_79,Chennai,Electronics,Mobile,Smartphone X,3,43598,130794,0,23937,COD,1
+ORD1967,09-02-2025,Customer_167,Mumbai,Clothing,Shirt,Formal Shirt,4,15165,60660,0.05,6914,UPI,1
+ORD1968,08-02-2025,Customer_179,Bangalore,Furniture,Chair,Office Chair,2,21445,42890,0.05,5931,Credit Card,1
+ORD1969,02-02-2025,Customer_196,Mumbai,Furniture,Chair,Office Chair,2,46525,93050,0.2,6283,Credit Card,2
+ORD1970,05-01-2025,Customer_73,Chennai,Furniture,Table,Dining Table,4,22598,90392,0,17047,UPI,3
+ORD1971,28-02-2025,Customer_210,Delhi,Clothing,Shirt,Formal Shirt,1,42987,42987,0.2,8373,UPI,4
+ORD1972,06-01-2025,Customer_116,Delhi,Electronics,Laptop,Laptop Pro,3,29358,88074,0.1,16696,UPI,4
+ORD1973,02-01-2025,Customer_130,Kolkata,Clothing,Shirt,Formal Shirt,5,46437,232185,0.1,14861,COD,4
+ORD1974,25-02-2025,Customer_256,Mumbai,Furniture,Table,Dining Table,4,35702,142808,0.2,22529,UPI,3
+ORD1975,15-02-2025,Customer_170,Mumbai,Furniture,Table,Dining Table,2,17915,35830,0.05,6069,Credit Card,3
+ORD1976,10-02-2025,Customer_98,Chennai,Electronics,Tablet,Tablet Z,4,25885,103540,0.05,8611,Credit Card,2
+ORD1977,26-01-2025,Customer_108,Delhi,Furniture,Table,Dining Table,4,2017,8068,0.1,1540,Credit Card,4
+ORD1978,21-02-2025,Customer_6,Mumbai,Electronics,Laptop,Laptop Pro,5,21010,105050,0.1,19451,Credit Card,4
+ORD1979,04-02-2025,Customer_177,Bangalore,Clothing,Jeans,Blue Jeans,1,34030,34030,0.15,6435,UPI,5
+ORD1980,29-01-2025,Customer_56,Chennai,Electronics,Tablet,Tablet Z,4,2239,8956,0.2,1685,UPI,3
+ORD1981,23-01-2025,Customer_46,Mumbai,Clothing,Jeans,Blue Jeans,2,9708,19416,0.1,3518,Credit Card,2
+ORD1982,08-01-2025,Customer_56,Mumbai,Clothing,Shirt,Formal Shirt,2,34090,68180,0.2,11207,Credit Card,5
+ORD1983,31-01-2025,Customer_148,Bangalore,Clothing,Shirt,Casual Shirt,1,42924,42924,0.15,4667,UPI,1
+ORD1984,16-01-2025,Customer_146,Mumbai,Clothing,Shirt,Casual Shirt,5,10170,50850,0.05,8001,COD,2
+ORD1985,11-01-2025,Customer_85,Kolkata,Electronics,Laptop,Laptop Pro,4,34772,139088,0,14119,UPI,5
+ORD1986,17-02-2025,Customer_87,Chennai,Electronics,Laptop,Laptop Pro,4,20716,82864,0.15,15277,UPI,1
+ORD1987,28-02-2025,Customer_94,Mumbai,Electronics,Tablet,Tablet Z,4,24385,97540,0.05,8414,UPI,5
+ORD1988,15-01-2025,Customer_200,Chennai,Clothing,Shirt,Formal Shirt,5,40442,202210,0.15,30117,COD,1
+ORD1989,14-02-2025,Customer_226,Kolkata,Electronics,Mobile,Smartphone X,5,29438,147190,0.2,14723,COD,4
+ORD1990,01-03-2025,Customer_116,Chennai,Clothing,Shirt,Casual Shirt,3,35933,107799,0.15,12078,Credit Card,1
+ORD1991,08-01-2025,Customer_298,Kolkata,Clothing,Shirt,Formal Shirt,4,29114,116456,0.15,15343,COD,5
+ORD1992,26-02-2025,Customer_240,Chennai,Electronics,Tablet,Tablet Z,2,33394,66788,0.15,11859,COD,3
+ORD1993,06-01-2025,Customer_126,Bangalore,Clothing,Shirt,Formal Shirt,1,32159,32159,0.2,3435,UPI,4
+ORD1994,02-02-2025,Customer_79,Delhi,Clothing,Shirt,Formal Shirt,3,9553,28659,0.15,3630,UPI,1
+ORD1995,15-02-2025,Customer_140,Kolkata,Electronics,Tablet,Tablet Z,1,38853,38853,0.2,1982,UPI,2
+ORD1996,03-02-2025,Customer_32,Delhi,Electronics,Laptop,Laptop Pro,5,1950,9750,0.2,858,Credit Card,5
+ORD1997,07-02-2025,Customer_30,Delhi,Electronics,Laptop,Laptop Pro,3,39185,117555,0.15,12521,Credit Card,2
+ORD1998,05-02-2025,Customer_137,Chennai,Clothing,Jeans,Blue Jeans,4,28811,115244,0.15,19390,Credit Card,3
+ORD1999,02-02-2025,Customer_37,Mumbai,Electronics,Tablet,Tablet Z,2,13263,26526,0.15,4975,COD,3
